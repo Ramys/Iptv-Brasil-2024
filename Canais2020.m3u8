@@ -1557,8 +1557,6 @@ http://csrv.tv:80/ANDINHO13/ANDINHO2020/2172
 http://csrv.tv:80/ANDINHO13/ANDINHO2020/2173
 #EXTINF:-1 group-title="Canais | Abertos" tvg-logo="http://a5.vc/aPN",NBR SD
 http://csrv.tv:80/ANDINHO13/ANDINHO2020/1772
-#EXTINF:-1 group-title="Canais | Estados Unidos",New York City [Camera]
-http://csrv.tv:80/ANDINHO13/ANDINHO2020/2418
 #EXTINF:-1 group-title="Canais | Variedades",NHK World SD
 http://csrv.tv:80/ANDINHO13/ANDINHO2020/42896
 #EXTINF:-1 group-title="Canais | Infantis" tvg-logo="http://a5.vc/Cey",Nick FHD
@@ -4685,6 +4683,34 @@ http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/9528.mp4
 http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/9529.mp4
 #EXTINF:-1 group-title="Series | O Pacifico" tvg-logo="http://a5.vc/hrq",O Pacifico S01 E10
 http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/9530.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4838.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4839.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4840.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4841.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4842.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4843.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4844.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4845.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23057.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23058.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23059.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23060.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23061.mp4
+#EXTINF:-1 group-title="Series | The Rain" tvg-logo="http://a5.vc/hrq",The Rain S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/23062.mp4
 #EXTINF:-1 group-title="Series | Orange is The New Black" tvg-logo="http://a5.vc/Yc5",Orange Is The New Black S01 E01
 http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/9053.mp4
 #EXTINF:-1 group-title="Series | Orange is The New Black" tvg-logo="http://a5.vc/Yc5",Orange Is The New Black S01 E02
@@ -5857,6 +5883,548 @@ http://asubox.site:80/series/270885/270885/49214.mp4
 http://asubox.site:80/series/270885/270885/49243.mp4
 #EXTINF:-1 group-title="Series | The Walking Dead" tvg-logo="http://a5.vc/KeP",The Walking Dead S10 E25
 http://asubox.site:80/series/270885/270885/49231.mkv
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4284.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4285.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4286.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4287.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4288.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4289.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4290.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4291.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4292.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4293.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4294.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4295.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4296.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4297.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4298.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4299.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4300.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S01 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4301.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4302.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4303.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4304.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4305.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4306.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4307.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4308.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4309.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4310.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4311.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4312.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4313.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4314.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4315.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4316.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4317.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4318.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S02 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4319.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4320.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4321.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4322.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4323.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4324.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4325.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4326.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4327.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://a5.vc/hz4",This Is US S03 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4328.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/b57526a99f747e60ae0ed5a8a18538ba.jpg",This Is US S03 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43751.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/4a52db920bb2a6a8b10c37714047d108.jpg",This Is US S03 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43752.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/9647849d0a3669e5e39d4b1ca6a9db89.jpg",This Is US S03 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43753.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/1b971569293efe37ef25c52135b351cc.jpg",This Is US S03 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43754.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/90755e0755eb8e66855d202d2c8edb9d.jpg",This Is US S03 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43755.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/6c55c600205af4c97721878d27d99bb7.jpg",This Is US S03 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43756.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/5af08b6d907891a23c963c06b422d9d3.jpg",This Is US S03 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43757.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/1af98ba3776c9aaaacf18b4508e1c728.jpg",This Is US S03 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43758.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/6b913363b7039255e6731a5b91212beb.jpg",This Is US S03 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/43759.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/90e69a28907f2e468156f261f9627681.jpg",This Is US S04 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45629.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/baf92bc96e131e155aa27967b9aee16f.jpg",This Is US S04 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45630.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/d999aa0d013c7b6f9b5ed3f25bc9f433.jpg",This Is US S04 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45631.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/a75f92ebcd3122640d41c42ef53a75f9.jpg",This Is US S04 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45632.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/1c307da1046322171d5c425b122f45f1.jpg",This Is US S04 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45633.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/a2f9a597a54647023689b51616547437.jpg",This Is US S04 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45634.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/2ab9031071b51445a64180b76b87290e.jpg",This Is US S04 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45635.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/c59ce63057e06610134924998f5eea31.jpg",This Is US S04 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45636.mp4
+#EXTINF:-1 group-title="Series | This is Us" tvg-logo="http://csrv.tv:80/images/daa6f2427b8d1c5e2a47e8dd05315d04.jpg",This Is US S04 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45637.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4276.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4277.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4278.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4279.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4280.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4281.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4282.mp4
+#EXTINF:-1 group-title="Series | Tidelands" tvg-logo="http://a5.vc/S7U",Tidelands S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4283.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4246.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4247.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4248.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4249.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4250.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4251.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4252.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4253.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4254.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4255.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://a5.vc/atf",Titans S01 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4256.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/b332089ee48b436f45b6d0edc1944451.jpg",Titans S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33066.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/c91facac20add1981170d8a0b34e0da8.jpg",Titans S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33067.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/0aa816e1d34fac86ed8e8242895349b3.jpg",Titans S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33068.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/13641fe41d4a4f1c8f42332f9a7e87af.jpg",Titans S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33069.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/0970939e59396a8de701bb3d771dcf84.jpg",Titans S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33070.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/a84ecc1f548be54bc708d7d5c2055e1d.jpg",Titans S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33071.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/1401367700a5c3925eed6ae99f9cb0da.jpg",Titans S02 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33072.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/92a214c1c0cc8226aae21561c3dc76d2.jpg",Titans S02 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33073.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/2108256c2bf9943191dd7cacd090ffce.jpg",Titans S02 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33074.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/96885baf28ddc111adf3f72ea32a2bac.jpg",Titans S02 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33075.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/144da83fa572b664ee22940c47618f54.jpg",Titans S02 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33076.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/0f7819659b5fec99d9dc6d3a3507c3a4.jpg",Titans S02 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33077.mp4
+#EXTINF:-1 group-title="Series | Titans" tvg-logo="http://csrv.me:80/images/ad30247692176fc10013b218213e0df7.jpg",Titans S02 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/33078.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4158.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4159.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4160.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4161.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4162.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4163.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4164.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4165.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4166.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4167.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4168.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4169.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4170.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4171.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4172.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4173.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4174.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4175.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4176.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4177.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4178.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S01 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4179.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4180.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4181.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4182.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4183.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4184.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4185.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4186.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4187.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4188.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4189.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4190.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4191.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4192.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4193.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4194.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4195.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4196.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4197.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4198.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4199.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4200.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S02 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4201.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4202.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4203.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4204.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4205.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4206.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4207.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4208.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4209.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4210.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4211.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4212.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4213.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4214.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4215.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4216.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4217.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4218.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4219.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4220.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4221.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4222.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S03 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4223.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4224.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4225.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4226.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4227.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4228.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4229.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4230.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4231.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4232.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4233.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4234.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4235.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4236.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4237.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4238.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4239.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4240.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4241.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4242.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4243.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4244.mp4
+#EXTINF:-1 group-title="Series | Todo Mundo Odeia o Chris" tvg-logo="http://a5.vc/NEo",Todo Mundo Odeia O Chris S04 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4245.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4150.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4151.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4152.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4153.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4154.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4155.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4156.mp4
+#EXTINF:-1 group-title="Series | Troia" tvg-logo="http://a5.vc/cN2",Troia S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4157.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4070.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4071.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4072.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4073.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4074.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4075.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4076.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4077.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4078.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4079.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4080.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S01 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4081.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4082.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4083.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4084.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4085.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4086.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4087.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4088.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4089.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4090.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4091.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4092.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S02 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4093.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4094.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4095.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4096.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4097.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4098.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4099.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4100.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4101.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4102.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4103.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4104.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S03 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4105.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4106.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4107.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4108.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4109.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4110.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4111.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4112.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4113.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4114.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4115.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4116.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S04 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4117.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4118.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4119.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4120.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4121.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4122.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4123.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4124.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4125.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4126.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4127.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4128.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S05 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4129.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4130.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4131.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4132.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4133.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4134.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4135.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4136.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4137.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4138.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S06 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4139.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4140.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4141.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4142.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4143.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4144.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4145.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4146.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4147.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4148.mp4
+#EXTINF:-1 group-title="Series | True Blood" tvg-logo="http://a5.vc/Kqu",True Blood S07 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4149.mp4
 #EXTINF:-1 group-title="Series | Breaking" tvg-logo="http://asbx.xyz:80/images/e5a439b99e46b094502ef779dbb90ac9.jpg",Breaking Bad S01 E01
 http://asubox.site:80/series/270885/270885/49244.mp4
 #EXTINF:-1 group-title="Series | Breaking" tvg-logo="http://asbx.xyz:80/images/e9e312c248bdff63e6515ee2e93c2bb1.jpg",Breaking Bad S01 E02
@@ -12001,6 +12569,350 @@ http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7677.mp4
 http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7678.mp4
 #EXTINF:-1 group-title="Series | Sons Of Anarchy" tvg-logo="http://a5.vc/sLY",Sons Of Anarchy S07 E13
 http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/7679.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4445.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4446.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4447.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4448.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4449.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4450.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4451.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4452.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4453.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4454.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4455.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4456.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4457.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4458.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4459.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4460.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4461.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4462.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4463.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4464.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4465.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S01 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4466.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4467.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4468.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4469.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4470.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4471.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4472.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4473.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4474.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4475.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4476.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4477.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S02 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4478.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/265e952f5586db9b31ed95324d79be71.jpg",The Vampire Diaries S02 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42853.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/57b76fb61eb691117ca80e89c3f886da.jpg",The Vampire Diaries S02 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42854.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/a125448cbae758e79e00b84fd4ac82cf.jpg",The Vampire Diaries S02 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42855.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/60b0b0390cc0b441f491d5f62cc2a540.jpg",The Vampire Diaries S02 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42856.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/0f80217e3b79e270372a03ade79b16ec.jpg",The Vampire Diaries S02 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42857.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/9c071bf338bd07627165d1af7f2b911f.jpg",The Vampire Diaries S02 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42858.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/43753739cf9746acb2a8c7c40da02954.jpg",The Vampire Diaries S02 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42859.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/494b20c41dd9931a3fe50c890dc3b1e2.jpg",The Vampire Diaries S02 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42860.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/ec545de9e4f3887a269beffc3531ca03.jpg",The Vampire Diaries S02 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42861.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/4cc0a74068e883e412ba29bad8b9e7af.jpg",The Vampire Diaries S02 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/42862.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/3d02b2d00df6d2782e791d619ba74190.jpg",The Vampire Diaries S03 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45485.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/b1fdc6400d948ba05d6c013526476cc2.jpg",The Vampire Diaries S03 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45486.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/7dd586e95b6606cec9c033d14895326d.jpg",The Vampire Diaries S03 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45487.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/21563c95072950f354de9f5dc6bc05fd.jpg",The Vampire Diaries S03 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45488.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/ee502789af8c60684ff1a0bbb695ed6d.jpg",The Vampire Diaries S03 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45489.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/75e2e51d1963708361f5b43960b7517a.jpg",The Vampire Diaries S03 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45490.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/38eb20c6b621ca23822e94be98e45205.jpg",The Vampire Diaries S03 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45491.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/cb87fbc814330aeb1d8f00269c0b7fef.jpg",The Vampire Diaries S03 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45492.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/45399e475936e1d1e8be284de7089f5f.jpg",The Vampire Diaries S03 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45493.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/044e84d905753f274ffedf28a5bb8909.jpg",The Vampire Diaries S03 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45494.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/eadd5a47c151de41301eb489b84ed65c.jpg",The Vampire Diaries S03 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45495.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/8653c62c69b7313d572bd02b724affeb.jpg",The Vampire Diaries S03 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45496.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/2cc2af0ff6d10756bd80c26a7dc4c5f8.jpg",The Vampire Diaries S03 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45497.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/c63516a06502f625e01d6a2dd9195106.jpg",The Vampire Diaries S03 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45498.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/717fd72357183090962d64f54beb2baa.jpg",The Vampire Diaries S03 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45499.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/71a052fbbb98f15db49f2baf5f219125.jpg",The Vampire Diaries S03 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45500.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/f1a4991bfacb3f36bfcd6512aed38a5d.jpg",The Vampire Diaries S03 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45501.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/04978745dd0d32e12befb3a24fd5c799.jpg",The Vampire Diaries S03 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45502.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/b44b4d750974a83791d636a81a38c4f1.jpg",The Vampire Diaries S03 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45503.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/4171cc7f489c66abe02196c5ca8e416f.jpg",The Vampire Diaries S03 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45504.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/7ed697456600e5cf88ba9d5c80724626.jpg",The Vampire Diaries S03 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45505.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4489.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4490.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4491.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4492.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4493.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4494.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4495.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4496.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4497.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4498.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4499.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4500.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4501.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4502.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4503.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4504.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4505.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4506.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4507.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4508.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4509.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4510.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S04 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4511.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4512.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4513.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4514.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4515.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4516.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4517.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4518.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4519.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4520.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4521.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4522.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4523.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4524.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4525.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4526.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4527.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4528.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4529.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4530.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4531.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4532.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S05 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4533.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4534.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4535.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4536.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4537.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4538.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4539.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4540.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4541.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4543.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4542.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4544.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4545.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4546.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4547.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4548.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4549.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4550.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4551.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4552.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4553.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4554.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4555.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S06 E23
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4556.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4557.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4558.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4559.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4560.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4561.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4562.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4563.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4564.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4565.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4566.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4567.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4568.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4569.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4570.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4571.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4572.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4573.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E18
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4574.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E19
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4575.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E20
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4576.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E21
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4577.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S07 E22
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/4578.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/3848410c33e7294589900e46cf2affad.jpg",The Vampire Diaries S08 E01
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45506.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/a996106169e89b0209a19498b36d8136.jpg",The Vampire Diaries S08 E02
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45507.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/2017601998b65a1baa912a5b1f466a07.jpg",The Vampire Diaries S08 E03
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45508.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/a17d42945fae39bf69e73408f6eda383.jpg",The Vampire Diaries S08 E04
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45509.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/801f8ab5111f38a7b1c3061980865728.jpg",The Vampire Diaries S08 E05
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45510.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/b83e1e150decf075459df2a9c6825ecf.jpg",The Vampire Diaries S08 E06
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45511.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/a00b01c796315ad98f8636ae604c17c9.jpg",The Vampire Diaries S08 E07
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45512.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/c82749653845089862c99f7d9fe2dcd2.jpg",The Vampire Diaries S08 E08
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45513.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/7f5fb1fdd1ebca1f2ae4a36fb4e19f34.jpg",The Vampire Diaries S08 E09
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45514.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/8b6e42568837b7512d3c430e61cf350a.jpg",The Vampire Diaries S08 E10
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45515.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/e403809148a29013aa8aa565f2b69a0a.jpg",The Vampire Diaries S08 E11
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45516.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/34b2004299c188787c1337b5f98a5215.jpg",The Vampire Diaries S08 E12
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45517.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/db063a55dc89ff7ba18a0db7b557900a.jpg",The Vampire Diaries S08 E13
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45518.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/6ed15b500186322bc6297e17dc012df3.jpg",The Vampire Diaries S08 E14
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45519.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/2d8afe0ec28a80cb5337885a58bff581.jpg",The Vampire Diaries S08 E15
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45520.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://csrv.tv:80/images/44fe5be0f375876f09146549c385de40.jpg",The Vampire Diaries S08 E16
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45521.mp4
+#EXTINF:-1 group-title="Series | The Vampire Diaries" tvg-logo="http://a5.vc/mp8",The Vampire Diaries S08 E17
+http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45522.mp4
 #EXTINF:-1 group-title="Series | South Park" tvg-logo="http://csrv.tv:80/images/5b84954d6d28f125f8f6c10f4acdc4a2.jpg",South Park S01 E01
 http://csrv.tv:80/series/ANDINHO13/ANDINHO2020/45380.mp4
 #EXTINF:-1 group-title="Series | South Park" tvg-logo="http://csrv.tv:80/images/0b873f3ff5fbd0c272453f4b13e134f7.jpg",South Park S01 E02
