@@ -8,3 +8,6 @@ https://pag.ae/7WsNdZYw6
 # PayPal
 https://tinyurl.com/b7e59s9t
 
+Precisa de ajuda?
+# Abra um issues(Questão) e eu lhe ajudarei!
+
