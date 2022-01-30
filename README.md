@@ -1,4 +1,4 @@
-# Iptv-Brasil-2020
+# Iptv-Brasil-2022
 DOE E AJUDE!
 
 Canais , Filmes e Séries
@@ -6,5 +6,5 @@ Canais , Filmes e Séries
 https://pag.ae/7WsNdZYw6
 
 # PayPal
-https://bit.ly/2GiK23o
+https://tinyurl.com/b7e59s9t
 
