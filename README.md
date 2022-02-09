@@ -3,10 +3,10 @@
 
 Canais , Filmes e Séries
 # PagSeguro
-https://pag.ae/7WsNdZYw6
+[![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
 
 # PayPal
-https://tinyurl.com/b7e59s9t
+[![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](https://tinyurl.com/b7e59s9t)
 
 # Link Para Web 
 http://player.cx/index.php 
