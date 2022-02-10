@@ -1,6 +1,4 @@
 #EXTM3U
-#EXTINF:-1 ,Unknown_1
-http://168.205.87.198:8555/live/adriana/123456/51.m3u8
 #EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/maptv.png",PORTAL
 http://168.205.87.198:8555/live/adriana/123456/82.ts
 #EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/agrobrasil.png",AGRO BRASIL
