@@ -1,0 +1,205 @@
+#EXTM3U
+#EXTINF:-1 ,Unknown_1
+http://168.205.87.198:8555/live/adriana/123456/51.m3u8
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/maptv.png",PORTAL
+http://168.205.87.198:8555/live/adriana/123456/82.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/agrobrasil.png",AGRO BRASIL
+http://168.205.87.198:8555/live/adriana/123456/7.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/agrocanal.png",AGRO CANAL
+http://168.205.87.198:8555/live/adriana/123456/10.ts
+#EXTINF:-1 group-title="General Streams",AGROMAIS
+http://168.205.87.198:8555/live/adriana/123456/175.ts
+#EXTINF:-1 group-title="General Streams",ALL SPORTS
+http://168.205.87.198:8555/live/adriana/123456/148.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/americalatino.png",AMERICA LATINO
+http://168.205.87.198:8555/live/adriana/123456/16.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/animalplanet.png",ANIMAL PLANET
+http://168.205.87.198:8555/live/adriana/123456/18.ts
+#EXTINF:-1 group-title="General Streams",ARTE1
+http://168.205.87.198:8555/live/adriana/123456/170.ts
+#EXTINF:-1 group-title="General Streams",BAND NEWS
+http://168.205.87.198:8555/live/adriana/123456/174.ts
+#EXTINF:-1 group-title="General Streams",BAND SPORTS
+http://168.205.87.198:8555/live/adriana/123456/176.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/bandminas.png",BAND
+http://168.205.87.198:8555/live/adriana/123456/19.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/boavontadetv.png",BOA VONTADE TV
+http://168.205.87.198:8555/live/adriana/123456/21.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/boomerang.png",BOOMERANG
+http://168.205.87.198:8555/live/adriana/123456/22.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/bra.png",BRA
+http://168.205.87.198:8555/live/adriana/123456/24.ts
+#EXTINF:-1 group-title="General Streams",BRSUPER TV
+http://168.205.87.198:8555/live/adriana/123456/147.ts
+#EXTINF:-1 group-title="General Streams",CANAL DO BOI
+http://168.205.87.198:8555/live/adriana/123456/167.ts
+#EXTINF:-1 group-title="General Streams",CANAL RURAL
+http://168.205.87.198:8555/live/adriana/123456/166.ts
+#EXTINF:-1 group-title="General Streams",CANAL SAÚDE
+http://168.205.87.198:8555/live/adriana/123456/165.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/cancaonova.png",CANÇÃO NOVA
+http://168.205.87.198:8555/live/adriana/123456/25.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/cartoonnetwork.png",CARTOON NETWORK
+http://168.205.87.198:8555/live/adriana/123456/26.ts
+#EXTINF:-1 group-title="General Streams",CHESPIRITO
+http://168.205.87.198:8555/live/adriana/123456/159.ts
+#EXTINF:-1 group-title="General Streams",CINE BRASIL
+http://168.205.87.198:8555/live/adriana/123456/145.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/classichits.png",CLASSIC HITS
+http://168.205.87.198:8555/live/adriana/123456/27.ts
+#EXTINF:-1 group-title="General Streams",CNN BRASIL
+http://168.205.87.198:8555/live/adriana/123456/28.ts
+#EXTINF:-1 group-title="General Streams",CNT
+http://168.205.87.198:8555/live/adriana/123456/150.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvcultura.png",CULTURA
+http://168.205.87.198:8555/live/adriana/123456/32.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/cult.png",CULT
+http://168.205.87.198:8555/live/adriana/123456/30.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/discovery.png",DISCOVERY CHANNEL
+http://168.205.87.198:8555/live/adriana/123456/33.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/homeehealth.png",DISCOVERY HOME HELTH
+http://168.205.87.198:8555/live/adriana/123456/35.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/iddiscovery.png",DISCOVERY ID
+http://168.205.87.198:8555/live/adriana/123456/36.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/discoverykids.png",DISCOVERY KIDS
+http://168.205.87.198:8555/live/adriana/123456/37.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tlcdiscovery.png",DISCOVERY TLC
+http://168.205.87.198:8555/live/adriana/123456/40.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/disneychannel.png",DISNEY CHANNEL
+http://168.205.87.198:8555/live/adriana/123456/45.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/disneyjr.png",DISNEY JR
+http://168.205.87.198:8555/live/adriana/123456/46.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/disneyxd.png",DISNEY XD
+http://168.205.87.198:8555/live/adriana/123456/47.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/espn2.png",ESPN 2
+http://168.205.87.198:8555/live/adriana/123456/49.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/espnbrasil.png",ESPN BRASIL
+http://168.205.87.198:8555/live/adriana/123456/50.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/espnextra.png",ESPN EXTRA
+http://168.205.87.198:8555/live/adriana/123456/51.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/espn.png",ESPN INT
+http://168.205.87.198:8555/live/adriana/123456/60.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/fashiontv.png",FASHION TV
+http://168.205.87.198:8555/live/adriana/123456/61.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/fishtv.png",FISH TV
+http://168.205.87.198:8555/live/adriana/123456/62.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/futura.png",FUTURA
+http://168.205.87.198:8555/live/adriana/123456/67.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvgazeta.png",GAZETA
+http://168.205.87.198:8555/live/adriana/123456/69.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/globominas.png",GLOBO MINAS
+http://168.205.87.198:8555/live/adriana/123456/70.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/hitts.png",HITTS
+http://168.205.87.198:8555/live/adriana/123456/72.ts
+#EXTINF:-1 group-title="General Streams",JP NEWS
+http://168.205.87.198:8555/live/adriana/123456/161.ts
+#EXTINF:-1 group-title="General Streams",KIDS
+http://168.205.87.198:8555/live/adriana/123456/143.ts
+#EXTINF:-1 group-title="General Streams",LOADING TV
+http://168.205.87.198:8555/live/adriana/123456/142.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/mastertv.png",MASTER TV
+http://168.205.87.198:8555/live/adriana/123456/74.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/mega.png",MEGA
+http://168.205.87.198:8555/live/adriana/123456/75.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/musicbox.png",MUSIC BOX
+http://168.205.87.198:8555/live/adriana/123456/77.ts
+#EXTINF:-1 group-title="General Streams",NOVO TEMPO
+http://168.205.87.198:8555/live/adriana/123456/149.ts
+#EXTINF:-1 group-title="General Streams",ONDA OESTE
+http://168.205.87.198:8555/live/adriana/123456/169.ts
+#EXTINF:-1 group-title="General Streams",PAI ETERNO
+http://168.205.87.198:8555/live/adriana/123456/144.ts
+#EXTINF:-1 group-title="General Streams",POLISHOP
+http://168.205.87.198:8555/live/adriana/123456/153.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/primebox.png",PRIME BOX
+http://168.205.87.198:8555/live/adriana/123456/83.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvratimbum.png",RATIMBUM
+http://168.205.87.198:8555/live/adriana/123456/84.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/recordtvminas.png",RECORD MINAS
+http://168.205.87.198:8555/live/adriana/123456/96.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/recordnews.png",RECORD NEWS
+http://168.205.87.198:8555/live/adriana/123456/97.ts
+#EXTINF:-1 group-title="General Streams",REDE FAMILIA
+http://168.205.87.198:8555/live/adriana/123456/151.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/redegenesis.png",REDE GENESIS
+http://168.205.87.198:8555/live/adriana/123456/98.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/redemetropole.png",REDE METROPOLE
+http://168.205.87.198:8555/live/adriana/123456/99.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/redeminas.png",REDE MINAS
+http://168.205.87.198:8555/live/adriana/123456/101.ts
+#EXTINF:-1 group-title="General Streams",REDE SUPER
+http://168.205.87.198:8555/live/adriana/123456/163.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/redetv.png",REDE TV
+http://168.205.87.198:8555/live/adriana/123456/102.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/redevida.png",REDE VIDA
+http://168.205.87.198:8555/live/adriana/123456/103.ts
+#EXTINF:-1 group-title="General Streams",RIT
+http://168.205.87.198:8555/live/adriana/123456/168.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiobossanova.png",RÁDIO BOSSA NOVA
+http://168.205.87.198:8555/live/adriana/123456/85.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiofesta.png",RÁDIO FESTA
+http://168.205.87.198:8555/live/adriana/123456/86.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiolounge.png",RÁDIO LOUNGE
+http://168.205.87.198:8555/live/adriana/123456/87.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiometal.png",RÁDIO METAL
+http://168.205.87.198:8555/live/adriana/123456/89.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiomusicaclassica.png",RÁDIO MÚSICA CLÁSSICA
+http://168.205.87.198:8555/live/adriana/123456/88.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radionewrock.png",RÁDIO NEW ROCK
+http://168.205.87.198:8555/live/adriana/123456/90.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiopagode.png",RÁDIO PAGODE
+http://168.205.87.198:8555/live/adriana/123456/91.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiopophits.png",RÁDIO POP HITS
+http://168.205.87.198:8555/live/adriana/123456/92.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiopoprock.png",RÁDIO POP ROCK
+http://168.205.87.198:8555/live/adriana/123456/93.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/radiotrilhassonoras.png",RÁDIO TRILHAS SONORAS
+http://168.205.87.198:8555/live/adriana/123456/95.ts
+#EXTINF:-1 group-title="General Streams",SABOR E ARTE
+http://168.205.87.198:8555/live/adriana/123456/172.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/sbtminas.png",SBT ALTEROSA
+http://168.205.87.198:8555/live/adriana/123456/104.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/sch.png",SCH
+http://168.205.87.198:8555/live/adriana/123456/105.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/redeseculo21.png",SECULO 21
+http://168.205.87.198:8555/live/adriana/123456/106.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/sesctv.png",SESC TV
+http://168.205.87.198:8555/live/adriana/123456/107.ts
+#EXTINF:-1 group-title="General Streams",SHOPTIME
+http://168.205.87.198:8555/live/adriana/123456/164.ts
+#EXTINF:-1 group-title="General Streams",SMITHSONIAN
+http://168.205.87.198:8555/live/adriana/123456/173.ts
+#EXTINF:-1 group-title="General Streams",SÉRIES CLÁSSICAS
+http://168.205.87.198:8555/live/adriana/123456/160.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tcm.png",TCM
+http://168.205.87.198:8555/live/adriana/123456/112.ts
+#EXTINF:-1 group-title="General Streams",TERRA VIVA
+http://168.205.87.198:8555/live/adriana/123456/171.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tntseries.png",TNT SÉRIES
+http://168.205.87.198:8555/live/adriana/123456/117.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tnt.png",TNT
+http://168.205.87.198:8555/live/adriana/123456/116.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/travelbox.png",TRAVEL
+http://168.205.87.198:8555/live/adriana/123456/124.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvaparecida.png",TV APARECIDA
+http://168.205.87.198:8555/live/adriana/123456/131.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvbrasil2.png",TV BRASIL 2
+http://168.205.87.198:8555/live/adriana/123456/135.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvbrasil.png",TV BRASIL
+http://168.205.87.198:8555/live/adriana/123456/134.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvcamara.png",TV CÂMARA
+http://168.205.87.198:8555/live/adriana/123456/136.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvescola.png",TV ESCOLA
+http://168.205.87.198:8555/live/adriana/123456/137.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvjustica.png",TV JUSTIÇA
+http://168.205.87.198:8555/live/adriana/123456/138.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/tvsenado.png",TV SENADO
+http://168.205.87.198:8555/live/adriana/123456/139.ts
+#EXTINF:-1 group-title="General Streams",TV TURFE
+http://168.205.87.198:8555/live/adriana/123456/152.ts
+#EXTINF:-1 group-title="General Streams",VRT CHANNEL
+http://168.205.87.198:8555/live/adriana/123456/146.ts
+#EXTINF:-1 group-title="General Streams" tvg-logo="http://168.205.87.198/logocanais/woohoo.png",WOOHOO
+http://168.205.87.198:8555/live/adriana/123456/141.ts
+#EXTINF:-1 group-title="General Streams",ZOOMOO
+http://168.205.87.198:8555/live/adriana/123456/162.ts
