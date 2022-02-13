@@ -25,4 +25,4 @@ Precisa de ajuda?
 # Abra um issues(Questão) e eu lhe ajudarei!
 
 # Aplicativo Para Android, Tv Box e Computador (IPTVSmartersPro).
-Liberado Após doação!
+
