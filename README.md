@@ -21,6 +21,9 @@ Login e Senha Para Club Tv.
 Login: Qtv4AT6FC7
 
 Senha: 1607740720
+### VENCIMENTO: 26 DE FEVEREIRO DE 2022 
+# ![Donate](https://cdn-icons-png.flaticon.com/128/709/709511.png)
+
 
 Precisa de ajuda?
 # Abra um issues(Questão) e eu lhe ajudarei!
