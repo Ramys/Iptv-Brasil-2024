@@ -26,7 +26,7 @@ Senha: 102030
 
 
 Precisa de ajuda?
-# Abra um issues(Questão) e eu lhe ajudarei!
+# Abra um issues(questão) e eu lhe ajudarei!
 
 # Aplicativo Para Android, Tv Box e Computador (IPTVSmartersPro).
 
