@@ -25,8 +25,11 @@ Senha: 102030
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 
-Precisa de ajuda?
-# Abra um issues(questão) e eu lhe ajudarei!
+
+# Lista Offline?
+### Abra um issues(questão) e eu lhe ajudarei!
+### Por favor poste o nome da lista Iptv que está offline para que eu possa corrigir imediatamente.
+
 
 # Aplicativo Para Android, Tv Box e Computador (IPTVSmartersPro).
 
