@@ -18,10 +18,10 @@ Com uma simples doação eu lhe envio os aplicativos com os logins e senhas.
 ### http://player.cx/index.php 
 Login e Senha Para Club Tv.
 
-Login: Jhonleno
+Login: 022773
 
-Senha: 102030
-### VENCIMENTO: 05 De Maio De 2022 
+Senha: J2AUU4
+### VENCIMENTO: Ilimitado!
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 
