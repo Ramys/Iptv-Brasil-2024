@@ -1,5 +1,5 @@
 # Iptv-Brasil-2022
-# Doe e Ajude!
+# Doe e ajude!
 
 Canais , Filmes e Séries
 
