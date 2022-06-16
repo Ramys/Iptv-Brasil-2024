@@ -23,13 +23,16 @@ Senha: fireurl.co
 
 #  📺 Web Player Iptv siptvgo  (02)
 
-### http://player.siptvgo.com
-Login e Senha Para siptvgo
+### http://player.limetv.me
+Login e Senha Para limetv
 
-Login: 4659753
+Login: 4719wil
 
-Senha: 6536874
-### VENCIMENTO:  12/27/2022
+Senha: 452540
+
+Obs: Não editar o perfil, use do Wilson!
+
+### VENCIMENTO:  06/06/2023
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 # Lista Offline?
