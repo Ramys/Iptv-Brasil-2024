@@ -10,7 +10,7 @@ Com uma simples doação eu lhe envio os aplicativos com os logins e senhas.
 # PagSeguro
 [![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
 
-#  📺 Web Player Iptv B5 (01)
+#  📺 Web Player Iptv acsc (B5) (01)
 
 ### http://player.cx/index.php 
 Login e Senha Para Club Tv.
@@ -33,6 +33,18 @@ Senha: 452540
 Obs: Não editar o perfil, use do Wilson!
 
 ### VENCIMENTO:  06/06/2023
+# ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
+
+
+#  📺 Web Player liebeplayer (03)
+
+### http://liebeplayer.me/ 
+Login e Senha Para liebeplayer Tv.
+
+Login: 98968593
+
+Senha: 6759101
+### VENCIMENTO: 07/17/2022
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 # Lista Offline?
