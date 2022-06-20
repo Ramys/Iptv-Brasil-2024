@@ -15,9 +15,13 @@ Com uma simples doação eu lhe envio os aplicativos com os logins e senhas.
 ### http://player.cx/index.php 
 Login e Senha Para Club Tv.
 
-Login: 0672648180
+Login (01): 0672648180
 
-Senha: fireurl.co
+Senha (01): fireurl.co
+
+Login: (02): 561467
+
+Senha (02): Xn5B6F
 ### VENCIMENTO: Ilimitado!
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
