@@ -15,14 +15,11 @@ Com uma simples doação eu lhe envio os aplicativos com os logins e senhas.
 ### http://player.cx/index.php 
 Login e Senha Para Club Tv.
 
-Login (01): 0672648180
+Login: (01): 561467
 
-Senha (01): fireurl.co
+Senha (01): Xn5B6F
 
-Login: (02): 561467
-
-Senha (02): Xn5B6F
-### VENCIMENTO: Ilimitado!
+### VENCIMENTO: 27 de julho 2022
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 #  📺 Web Player Iptv siptvgo  (02)
