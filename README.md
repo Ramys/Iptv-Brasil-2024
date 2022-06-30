@@ -3,10 +3,9 @@
 
 Canais , Filmes e Séries
 
-### 💵 Doações
-Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo
 ### Contribuições 💰 
-Com uma simples doação eu lhe envio os aplicativos com os logins e senhas.
+Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo
+
 # PagSeguro
 [![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
 
