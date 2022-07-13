@@ -9,9 +9,7 @@ Se você gosta dos meus projetos, considere fazer uma pequena doação clicando 
 # PagSeguro
 [![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
 
-Ou via pix pela a seguinte chave 
-
-602d4c83-fceb-4eb3-8f1a-70af606b571b
+Ou via pix , por favor pedir a chave via ticket.
 
 #  📺 Web Player Iptv acsc (B5) (01)
 
