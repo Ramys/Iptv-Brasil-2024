@@ -13,7 +13,7 @@ Ou via pix , por favor pedir a chave via ticket.
 
 #  📺 Web Player Iptv acsc (B5) (01)
 
-### http://player.cx/index.php 
+### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
 Login: (01): 561467
