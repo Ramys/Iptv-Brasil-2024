@@ -16,9 +16,9 @@ Ou via pix , por favor pedir a chave via ticket.
 ### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
-Login: (01): 561467
+Login: (01): 4673629418
 
-Senha (01): Xn5B6F
+Senha (01): snakeplay
 
 ### VENCIMENTO: 27 de julho 2022
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
