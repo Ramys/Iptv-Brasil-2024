@@ -38,15 +38,15 @@ Obs: Não editar o perfil, use do Wilson!
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 
-#  📺 Web Player liebeplayer (03)
+#  📺 Web Player  (03)
 
-### http://liebeplayer.me/ 
-Login e Senha Para liebeplayer Tv.
+### 
 
-Login: 98968593
 
-Senha: 6759101
-### VENCIMENTO: 07/17/2022
+Login: 
+
+Senha: 
+### VENCIMENTO: 
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
 
 # Lista Offline?
