@@ -1,20 +1,24 @@
 # Iptv-Brasil-2022 - Canais , Filmes e Séries
+### <i class="fa-brands fa-pix">
+ Só tem o direito de criticar aquele que pretende ajudar. "Abraham Lincoln"
+# Estou disponibilizando os programas que uso na Tv box e no celular (Android).
 
-
-# Estou disponibilizando os programas que uso na Tv box e no celular (Android) , é justo ajudar .
 ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/selfie_medium-light-skin-tone_1f933-1f3fc_1f3fc.png) 
 <a href="https://tinyurl.com/3hrrc9u5" download="filename">Clique aqui para baixar no Android</a>
 
 ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/346/desktop-computer_1f5a5-fe0f.png) <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
 # 
-# Contribuições  ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/346/money-bag_1f4b0.png)
-Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/346/money-with-wings_1f4b8.png)
-
+# Contribuições ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/346/money-bag_1f4b0.png)
+### Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo.
 
 # PagSeguro
 [![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
+# Ou via pix {<a href="https://github.com/Ramys/Iptv-Brasil-2022/issues" download="filename">Pedido Chave Pix</a>}![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png)
 
-Ou via pix , por favor pedir a chave via ticket.
+
+# <p id="paragrafo">
+   
+
 
 #  📺 Web Player Iptv acsc (B5) (01)
 
