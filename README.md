@@ -1,10 +1,15 @@
-# Iptv-Brasil-2022
-# Doe e ajude!
+# Iptv-Brasil-2022 - Canais , Filmes e Séries
 
-Canais , Filmes e Séries
 
-### Contribuições 💰 
-Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo
+# Estou disponibilizando os programas que uso na Tv box e no celular (Android) , é justo ajudar .
+![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/selfie_medium-light-skin-tone_1f933-1f3fc_1f3fc.png) 
+<a href="https://tinyurl.com/3hrrc9u5" download="filename">Clique aqui para baixar no Android</a>
+
+![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/346/desktop-computer_1f5a5-fe0f.png) <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
+# 
+# Contribuições  ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/346/money-bag_1f4b0.png)
+Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/346/money-with-wings_1f4b8.png)
+
 
 # PagSeguro
 [![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
@@ -20,8 +25,9 @@ Login: (01): 4673629418
 
 Senha (01): snakeplay
 
-### VENCIMENTO: 27 de julho 2022
+### VENCIMENTO: 20/11/2022
 # ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
+
 
 #  📺 Web Player Iptv siptvgo  (02)
 
@@ -54,5 +60,4 @@ Senha:
 ### Por favor poste o nome da lista Iptv que está offline para que eu possa corrigir imediatamente.
 
 
-# Aplicativo Para Android, Tv Box e Computador (IPTVSmartersPro).
 
