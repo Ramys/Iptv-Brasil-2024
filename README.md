@@ -22,7 +22,10 @@
 
 # <p id="paragrafo">
    
+#  📺 PAINEL NO NAVEGADOR FREE!
+Grátis para todos!
 
+### https://canais.m3u8live.ml/
 
 #  📺 Web Player Iptv acsc (B5) (01)
 
