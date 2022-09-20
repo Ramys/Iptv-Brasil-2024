@@ -6,7 +6,11 @@
 ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/whatsapp/326/selfie_medium-light-skin-tone_1f933-1f3fc_1f3fc.png) 
 <a href="https://tinyurl.com/3hrrc9u5" download="filename">Clique aqui para baixar no Android</a>
 
-![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/346/desktop-computer_1f5a5-fe0f.png) <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
+![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/google/346/desktop-computer_1f5a5-fe0f.png) 
+<a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
+#
+### ![Donate](https://media1.giphy.com/media/26uf7WGUJLbiqIryo/200w.webp?cid=ecf05e47dtwvm3nwvtetzvuacpt4xsh7zjru1qhh8hhnjpjx&rid=200w.webp&ct=g) 
+### <a href="https://www.virustotal.com" download="filename">Ver aplicativos no VirusTotal</a> 
 # 
 # Contribuições ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/google/346/money-bag_1f4b0.png)
 ### Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo.
