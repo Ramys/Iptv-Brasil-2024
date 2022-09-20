@@ -20,8 +20,8 @@
 # Ou via pix {<a href="https://github.com/Ramys/Iptv-Brasil-2022/issues" download="filename">Pedido Chave Pix</a>}![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png)
   
 # ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/television_1f4fa.png) PAINEL NO NAVEGADOR
-Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
-### https://canais.m3u8live.ml/
+### Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
+# https://canais.m3u8live.ml/
 
 #  📺 Web Player Iptv acsc (B5) (01)
 
