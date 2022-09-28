@@ -33,7 +33,7 @@ Login: (01): 4673629418
 Senha (01): snakeplay
 
 ### VENCIMENTO: 20/11/2022
-# ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
+# ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 
 #  📺 Web Player Iptv siptvgo  (02)
@@ -48,7 +48,7 @@ Senha: 452540
 Obs: Não editar o perfil, use do Wilson!
 
 ### VENCIMENTO:  06/06/2023
-# ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
+# ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 
 #  📺 Web Player  (03)
@@ -60,7 +60,7 @@ Login:
 
 Senha: 
 ### VENCIMENTO: 
-# ![Time](https://cdn-icons-png.flaticon.com/128/709/709511.png)
+# ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 # Lista Offline?
 ### Abra um issues(questão) e eu lhe ajudarei!
