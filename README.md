@@ -22,7 +22,7 @@
 # ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/television_1f4fa.png) PAINEL NO NAVEGADOR
 ### Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
 # https://canais.m3u8live.ml/
- 
+ ### <i class="fa-brands fa-pix">
  ### Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
 #  📺 Web Player Iptv acsc (B5) (01)
