@@ -38,18 +38,22 @@ Senha (01): snakeplay
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 
-#  📺 Web Player Iptv siptvgo  (02)
+#  📺 Web Player iptvsmarters(02)
 
-### http://player.limetv.me
-Login e Senha Para limetv
+### http://webtv.iptvsmarters.com/index.php?adduser
+Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
-Login: 4719wil
+###
+Qualquer nome: Axr
 
-Senha: 452540
+Login: 00005733
 
-Obs: Não editar o perfil, use do Wilson!
+senha: MF159357C
 
-### VENCIMENTO:  06/06/2023
+url: http://axr.life:80
+
+
+  
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 
