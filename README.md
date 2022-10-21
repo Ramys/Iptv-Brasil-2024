@@ -46,9 +46,9 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 ###
 Qualquer nome: Axr
 
-Login: 00005733
+Login: 096154
 
-senha: MF159357C
+senha: 686531
 
 url: http://axr.life:80
 
