@@ -17,7 +17,7 @@
 
 # PagSeguro
 [![Donate](https://amanj.org.br/wp-content/uploads/2021/11/quero_doar.png)](https://pag.ae/7WsNdZYw6)
-# Ou via pix {<a href="https://github.com/Ramys/Iptv-Brasil-2022/issues" download="filename">Pedido Chave Pix</a>}![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png)
+# Chave pix {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png)
   
 # ![Donate](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/emojidex/112/television_1f4fa.png) PAINEL NO NAVEGADOR
 ### Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
