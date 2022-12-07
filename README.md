@@ -30,9 +30,9 @@
 ### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
-Login: (01): 4673629418
+Login: (01): 364648
 
-Senha (01): snakeplay
+Senha (01): z1FBeV
 
 ### VENCIMENTO: 20/11/2022
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
