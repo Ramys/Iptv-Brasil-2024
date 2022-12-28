@@ -47,14 +47,14 @@ Senha (01): z1FBeV
 Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
 ###
-Qualquer nome: Axr
+Qualquer nome: Magiaiptv
 
-Login: 096154
+Login: 800196
 
-senha: 686531
+senha: 128093
 
-url: http://axr.life:80
-
+url: http://api.magiaiptv.com
+url2: http://api.magiaiptv.com:80
 
   
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
