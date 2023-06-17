@@ -1,4 +1,4 @@
-# Iptv-Brasil-2022 - Canais , Filmes e Séries
+# Iptv-Brasil-2023 - Canais , Filmes e Séries
 ### <i class="fa-brands fa-pix">
  Só tem o direito de criticar aquele que pretende ajudar. "Abraham Lincoln"
 # Estou disponibilizando os programas que uso na Tv box e no celular (Android).
@@ -30,11 +30,11 @@
 ### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
-Login: (01): 364648
+Login: (01): bF3y9W
 
-Senha (01): z1FBeV
+Senha (01): 68GSme
 
-### VENCIMENTO: 20/11/2022
+### VENCIMENTO:
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 
