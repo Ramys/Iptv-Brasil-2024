@@ -30,9 +30,9 @@
 ### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
-Login: (01): bF3y9W
+Login: (01): 378724
 
-Senha (01): 68GSme
+Senha (01): pcapQ5
 
 ### VENCIMENTO:
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
@@ -44,11 +44,11 @@ Senha (01): 68GSme
 Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
 ###
-Qualquer nome: Magiaiptv
+Qualquer nome: 
 
-Login: 800196
+Login: 
 
-senha: 128093
+senha:
 
 url: http://api.magiaiptv.com
 url2: http://api.magiaiptv.com:80
