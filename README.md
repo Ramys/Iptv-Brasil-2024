@@ -50,8 +50,7 @@ Login: 378724
 
 senha: pcapQ5
 
-url: 
-url2: 
+url: http://bdtb.io:80
 
   
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
