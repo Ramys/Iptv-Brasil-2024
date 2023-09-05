@@ -46,12 +46,12 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 ###
 Qualquer nome: 
 
-Login: 
+Login: 378724
 
-senha:
+senha: pcapQ5
 
-url: http://api.magiaiptv.com
-url2: http://api.magiaiptv.com:80
+url: 
+url2: 
 
   
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
