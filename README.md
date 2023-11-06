@@ -30,9 +30,9 @@
 ### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
-Login: (01): 378724
+Login: (01): 
 
-Senha (01): pcapQ5
+Senha (01): 
 
 ### VENCIMENTO:
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
@@ -46,11 +46,11 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 ###
 Qualquer nome: 
 
-Login: 378724
+Login: 
 
-senha: pcapQ5
+senha: 
 
-url: http://bdtb.io:80
+url: 
 
   
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
