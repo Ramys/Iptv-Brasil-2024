@@ -30,9 +30,9 @@
 ### http://cplayer.io/ 
 Login e Senha Para Club Tv.
 
-Login: (01): 
+Login: (01): VagnerFerri
 
-Senha (01): 
+Senha (01): A32097xx
 
 ### VENCIMENTO:
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
