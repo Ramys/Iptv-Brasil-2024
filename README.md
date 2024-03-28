@@ -73,6 +73,7 @@ Senha:
 https://mega.nz/file/IoESkYKZ#EIntpuwUL4bGtvBa-21D43tSs5BCLFPBcOQxkc3zxeg
 
 Link Win 7 todas as versões em 32 e 64 bits.
+
 https://archive.org/details/windows-7-todas.as.versoes-x-86-ou-x-64-pt-br
 
 Nesse pacote vem todas as versões do windows 7. espero que gostem
