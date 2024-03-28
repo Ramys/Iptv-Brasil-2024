@@ -78,6 +78,7 @@ https://archive.org/details/windows-7-todas.as.versoes-x-86-ou-x-64-pt-br
 Nesse pacote vem todas as versões do windows 7. espero que gostem
 
 Requisitos do sistema para o Windows 7
+
 Se pretender executar o Windows 7 no seu PC, é necessário o seguinte:
 
 Processador de 1 gigahertz (GHz) ou mais rápido, de 32 bits (x86) ou 64 bits (x64)
