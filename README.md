@@ -2,21 +2,6 @@
 ### <i class="fa-brands fa-pix">
  Só tem o direito de criticar aquele que pretende ajudar. "Abraham Lincoln"
 # Estou disponibilizando os programas que uso na Tv box e no celular (Android).
-Link Win 7 todas as versões em 32 e 64 bits.
-https://archive.org/details/windows-7-todas.as.versoes-x-86-ou-x-64-pt-br
-
-Nesse pacote vem todas as versões do windows 7. espero que gostem
-
-Requisitos do sistema para o Windows 7
-Se pretender executar o Windows 7 no seu PC, é necessário o seguinte:
-
-Processador de 1 gigahertz (GHz) ou mais rápido, de 32 bits (x86) ou 64 bits (x64)
-
-1 gigabyte (GB) de RAM (32 bits) ou 2 GB de RAM (64 bits)
-
-16 GB de espaço disponível no disco rígido (32 bits) ou 20 GB (64 bits)
-
-Dispositivo de gráficos DirectX 9 com controlador WDDM 1.0 ou posterior
 
 <a href="https://tinyurl.com/3hrrc9u5" download="filename">Clique aqui para baixar no Android</a>
 
@@ -87,5 +72,20 @@ Senha:
 
 https://mega.nz/file/IoESkYKZ#EIntpuwUL4bGtvBa-21D43tSs5BCLFPBcOQxkc3zxeg
 
+Link Win 7 todas as versões em 32 e 64 bits.
+https://archive.org/details/windows-7-todas.as.versoes-x-86-ou-x-64-pt-br
+
+Nesse pacote vem todas as versões do windows 7. espero que gostem
+
+Requisitos do sistema para o Windows 7
+Se pretender executar o Windows 7 no seu PC, é necessário o seguinte:
+
+Processador de 1 gigahertz (GHz) ou mais rápido, de 32 bits (x86) ou 64 bits (x64)
+
+1 gigabyte (GB) de RAM (32 bits) ou 2 GB de RAM (64 bits)
+
+16 GB de espaço disponível no disco rígido (32 bits) ou 20 GB (64 bits)
+
+Dispositivo de gráficos DirectX 9 com controlador WDDM 1.0 ou posterior
 
 
