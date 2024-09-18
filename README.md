@@ -43,7 +43,7 @@ Login: nAvj517aMdB
 senha:  fAHd7pgY0UR
 
 Url:  http://bccdn.xyz:80
-url: 
+
 
   
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
