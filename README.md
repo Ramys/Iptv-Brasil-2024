@@ -44,22 +44,6 @@ senha:  fAHd7pgY0UR
 
 Url:  http://bccdn.xyz:80
 
-
-  
-# ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
-
-
-#  📺 Web Player  (03)
-
-### 
-
-
-Login: 
-
-Senha: 
-### VENCIMENTO: 
-# ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
-
 # Lista Offline?
 ### Abra um issues(questão) e eu lhe ajudarei!
 ### Por favor poste o nome da lista Iptv que está offline para que eu possa corrigir imediatamente.
