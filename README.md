@@ -29,31 +29,25 @@
  ### <i class="fa-brands fa-pix">
  ### Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
-#  📺 Web Player Iptv acsc (B5) (01)
 
-### http://cplayer.io/ 
-Login e Senha Para Club Tv.
-
-Login: (01): VagnerFerri
-
-Senha (01): A32097xx
 
 ### VENCIMENTO:
 # ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
 
 
-#  📺 Web Player iptvsmarters(02)
+#  📺 Web Player iptvsmarters(01)
 
 ### http://webtv.iptvsmarters.com/index.php?adduser
 Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
 ###
-Qualquer nome: 
+Qualquer nome: Url
 
-Login: 
+Login: nAvj517aMdB
 
-senha: 
+senha:  fAHd7pgY0UR
 
+Url:  http://bccdn.xyz:80
 url: 
 
   
