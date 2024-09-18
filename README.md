@@ -30,11 +30,6 @@
  ### Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
 
-
-### VENCIMENTO:
-# ![Time](https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/72/whatsapp/326/hourglass-not-done_23f3.png)
-
-
 #  📺 Web Player iptvsmarters(01)
 
 ### http://webtv.iptvsmarters.com/index.php?adduser
