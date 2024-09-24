@@ -36,17 +36,26 @@
 Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
 ###
+Lista 01
+
 Qualquer nome: Url
-Qualquer nome: Url2
 
 Login: 1310152374
-Login2: luiz222
 
 Senha:  1310152374
-Senha2: 222luiz
 
 Url:  http://redima.pro:8880
+###
+Lista 02
+
+Qualquer nome: Url2
+
+Login2: luiz222
+
+Senha2: 222luiz
+
 Url2: http://cloudedge7.com:80
+
 
 # Lista Offline?
 ### Abra um issues(questão) e eu lhe ajudarei!
