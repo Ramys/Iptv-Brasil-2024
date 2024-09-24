@@ -38,11 +38,11 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 ###
 Qualquer nome: Url
 
-Login: nAvj517aMdB
+Login: 1310152374
 
-senha:  fAHd7pgY0UR
+senha:  1310152374
 
-Url:  http://bccdn.xyz:80
+Url:  http://redima.pro:8880
 
 # Lista Offline?
 ### Abra um issues(questão) e eu lhe ajudarei!
