@@ -50,11 +50,11 @@ Lista 02
 
 Qualquer nome: Url2
 
-Login2: luiz222
+Login2: K8N7fg
 
-Senha2: 222luiz
+Senha2: 7E5hyV
 
-Url2: http://cloudedge7.com:80
+Url2: http://uniplay.proxytv.in:80
 
 
 # Lista Offline?
