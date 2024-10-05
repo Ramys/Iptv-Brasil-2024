@@ -3,7 +3,7 @@
  Só tem o direito de criticar aquele que pretende ajudar. "Abraham Lincoln"
 # Estou disponibilizando os programas que uso na Tv box e no celular (Android).
 
-<a href="https://tinyurl.com/3xutkest" download="filename">Clique aqui para baixar no Android-Versão 2024 Premium</a>
+<a href="https://tinyurl.com/5n84zssk" download="filename">Clique aqui para baixar no Android-Versão 2024 Premium</a>
 
 <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
 #
