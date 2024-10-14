@@ -37,7 +37,7 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
 ###
 #
-Lista 01
+Lista: 01
 
 Qualquer nome: Url
 
@@ -48,7 +48,7 @@ Senha:  1310152374
 Url:  http://redima.pro:8880
 #
 ###
-Lista 02
+Lista: 02
 
 Qualquer nome: Url2
 
