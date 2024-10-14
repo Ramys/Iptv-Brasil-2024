@@ -7,7 +7,8 @@
 
 * <a href="https://tinyurl.com/ycy6wfyp" download="filename">Clique aqui para baixar no Windows</a> 
 #
-# <a href="https://www.virustotal.com" download="filename">Ver aplicativos no VirusTotal</a>
+### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
+#
 
 ### CANAIS AO VIVO PARA TODOS <a href="https://www.tvlivre.site" download="filename">TvLivre</a>
 # https://www.tvlivre.site
