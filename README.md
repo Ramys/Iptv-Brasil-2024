@@ -38,7 +38,7 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 #
 Lista: 01
 
-Qualquer nome: Url
+Qualquer nome: Url1
 
 Login: 1310152374
 
@@ -58,7 +58,15 @@ Senha2: 7E5hyV
 Url2: http://uniplay.proxytv.in:80
 
 #
+Lista: 03
 
+Qualquer nome: Url3
 
+Login3: reginaldooliver1
 
+Senha3: oliverreginaldo
+
+Url3: http://acsa.ws:80
+
+#
 
