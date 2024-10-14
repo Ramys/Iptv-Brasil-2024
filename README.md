@@ -19,15 +19,16 @@
 
 
 
-# Chave pix {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png)
+# ![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png) Chave pix {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}
   
 # PAINEL NO NAVEGADOR
-### Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
+## [https://canais.m3u8live.ml/](https://jairppereira.github.io/tvweb/)
+* Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
 
 
 # [https://canais.m3u8live.ml/](https://jairppereira.github.io/tvweb/)
  ### <i class="fa-brands fa-pix">
- ### Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
+### ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
 
 
 #  📺 Web Player iptvsmarters(01)
