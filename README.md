@@ -24,7 +24,6 @@
 ## [https://canais.m3u8live.ml/](https://jairppereira.github.io/tvweb/)
 * Todos os créditos do projeto para <a href="https://github.com/JairPPereira" download="filename">JairPPereira</a>
 
-
 # [https://canais.m3u8live.ml/](https://jairppereira.github.io/tvweb/)
  ### <i class="fa-brands fa-pix">
 ### ⚠️ Atenção: <b>Todas as ligações de streams disponibilizados nas listas foram retiradas da internet. A comunidade apenas as organiza, disponibiliza e partilha. Não detemos qualquer servidor e/ou trasmitimos ou re-emitimos qualquer tipo de sinal</b>. 
