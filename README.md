@@ -14,12 +14,11 @@
 # https://www.tvlivre.site
  
 # 
-### Contribuições
+# Contribuições
 ### Se você gosta dos meus projetos, considere fazer uma pequena doação clicando no botão abaixo.
 
 
-
-# ![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png) Chave pix {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}
+### ![Donate](https://user-images.githubusercontent.com/33992396/99478353-00e4d600-2933-11eb-8228-4bafe8571507.png) Chave pix {<a href="LINK" download="filename">6cbc20f2-8b99-4b60-9b76-292f377fa27d</a>}
   
 ### PAINEL NO NAVEGADOR
 ## [https://canais.m3u8live.ml/](https://jairppereira.github.io/tvweb/)
