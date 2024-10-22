@@ -39,9 +39,9 @@ Lista: 01
 
 Qualquer nome: Url1
 
-Login: 1310152374
+Login: VALLE1402
 
-Senha:  1310152374
+Senha:  VALLE1402
 
 Url:  http://redima.pro:8880
 #
@@ -50,9 +50,9 @@ Lista: 02
 
 Qualquer nome: Url2
 
-Login2: K8N7fg
+Login2: leonardo4249
 
-Senha2: 7E5hyV
+Senha2: a980069
 
 Url2: http://uniplay.proxytv.in:80
 
