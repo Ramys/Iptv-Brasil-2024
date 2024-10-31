@@ -30,7 +30,7 @@
 
 #  📺 Web Player iptvsmarters(01)
 
-### https://webtv-new.iptvsmarters.com/login?action=add-profile&type=player-api
+### https://webtv-new.iptvsmarters.com/login?type=player-api
 
 Qualquer Lista poderá ser adicionada no painel iptvsmarters.
 
