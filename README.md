@@ -51,11 +51,11 @@ Lista: 02
 
 Qualquer nome: Url2
 
-Login2: leonardo4249
+Login2: 
 
-Senha2: a980069
+Senha2: 
 
-Url2: http://uniplay.proxytv.in:80
+Url2:
 
 #
 Lista: 03
