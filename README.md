@@ -51,11 +51,11 @@ Lista: 02
 
 Qualquer nome: Url2
 
-Login2: 
+Login2: robert123
 
-Senha2: 
+Senha2: robert123
 
-Url2:
+Url2: http://canal.cdntv.com.br:80
 
 #
 Lista: 03
