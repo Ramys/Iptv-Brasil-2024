@@ -51,11 +51,11 @@ Lista: 02
 
 Qualquer nome: Url2
 
-Login2: robert123
+Login2: JOSHUAUGO5386
 
-Senha2: robert123
+Senha2: 506D4C
 
-Url2: http://canal.cdntv.com.br:80
+Url2: http://m1-max.dns-speedy.com:80
 
 #
 Lista: 03
