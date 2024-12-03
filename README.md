@@ -51,11 +51,11 @@ Lista: 02
 
 Qualquer nome: Url2
 
-Login2: JOSHUAUGO5386
+Login2: 70376812
 
-Senha2: 506D4C
+Senha2: 52663544
 
-Url2: http://m1-max.dns-speedy.com:80
+Url2: http://doubleclicktv.live:80
 
 #
 Lista: 03
