@@ -55,8 +55,7 @@ Login2: 70376812
 
 Senha2: 52663544
 
-Url2: http://doubleclicktv.live:80
-
+Url2: http://lordstreams.live:80
 #
 Lista: 03
 
