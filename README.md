@@ -40,11 +40,11 @@ Lista: 01
 
 Qualquer nome: Url1
 
-Login: VALLE1402
+Login: j.p.lowry714@gmail.com
 
-Senha:  VALLE1402
+Senha:  BZJFU5cunM
 
-Url:  http://redima.pro:8880
+Url:  http://ua-iptv.com:8080
 #
 ###
 Lista: 02
