@@ -1,4 +1,4 @@
-# IPTV Brasil 2024 - Canais, Filmes e Séries
+# IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
 "Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
 ### Estou disponibilizando os programas que uso na Tv box e no celular (Android).
