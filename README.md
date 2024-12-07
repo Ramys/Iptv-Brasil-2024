@@ -32,7 +32,11 @@
 
 ### http://webtv.iptvsmarters.com/index.php?adduser
 
-Qualquer Lista poderá ser adicionada no painel iptvsmarters.
+#  📺 Web Player iptvsmarters(02)
+
+### http://webtv.iptvblinkplayer.com/
+
+Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 ###
 #
