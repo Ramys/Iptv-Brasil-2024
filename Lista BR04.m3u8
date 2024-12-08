@@ -1,0 +1,523 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 xui-id="326955" tvg-id="espn.br" tvg-name="BR| ESPN 1 FHD" tvg-logo="https://logo.iptveditor.com/espn.png" group-title="Brazil",BR| ESPN 1 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yaPc05vttra3Y9mIm0UTDGk/ts
+#EXTINF:-1 xui-id="326954" tvg-id="espn2.br" tvg-name="BR| ESPN 2 FHD" tvg-logo="https://logo.iptveditor.com/espn2.png" group-title="Brazil",BR| ESPN 2 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yULGs8pN0uS32J58zqzDdt0/ts
+#EXTINF:-1 xui-id="326953" tvg-id="" tvg-name="BR| ESPN 3 FHD" tvg-logo="https://logo.iptveditor.com/espn3.png" group-title="Brazil",BR| ESPN 3 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybFg4ls9cA-dRKFejJFqqYk/ts
+#EXTINF:-1 xui-id="326952" tvg-id="" tvg-name="BR| ESPN 4 FHD" tvg-logo="https://logo.iptveditor.com/espn4.png" group-title="Brazil",BR| ESPN 4 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTsMAKBu9hrRytb7hPsw2C4/ts
+#EXTINF:-1 xui-id="326951" tvg-id="espnextra.br" tvg-name="BR| ESPN Extra FHD" tvg-logo="https://logo.iptveditor.com/espnextra.png" group-title="Brazil",BR| ESPN Extra FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybxC766X7xvcns0SoDCI8AA/ts
+#EXTINF:-1 xui-id="326950" tvg-id="foxsports2.br" tvg-name="BR| FOX Sports 2 FHD" tvg-logo="https://logo.iptveditor.com/foxsports.png" group-title="Brazil",BR| FOX Sports 2 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yW3qn3TLQE-b_bcKMfxMLbc/ts
+#EXTINF:-1 xui-id="326949" tvg-id="bandsports.br" tvg-name="BR| BAND Sports FHD" tvg-logo="https://logo.iptveditor.com/bandsports.png" group-title="Brazil",BR| BAND Sports FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZiknujl9PHvadinRbkmiSU/ts
+#EXTINF:-1 xui-id="326948" tvg-id="combate.br" tvg-name="BR| Combate FHD" tvg-logo="https://logo.iptveditor.com/combate.png" group-title="Brazil",BR| Combate FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yadAcshPEDlBFZ1m1ykEzpM/ts
+#EXTINF:-1 xui-id="326947" tvg-id="sportv.br" tvg-name="BR| SporTV 1 FHD" tvg-logo="https://loopstatic.net/sportv1.png" group-title="Brazil",BR| SporTV 1 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yewoiAtThwDZpGqEHwmGcEA/ts
+#EXTINF:-1 xui-id="326946" tvg-id="sportv2.br" tvg-name="BR| SporTV 2 FHD" tvg-logo="https://loopstatic.net/sportv2.png" group-title="Brazil",BR| SporTV 2 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWaz6z2oV91DyxvsKL6X_P0/ts
+#EXTINF:-1 xui-id="326945" tvg-id="sportv3.br" tvg-name="BR| SporTV 3 FHD" tvg-logo="https://loopstatic.net/sportv3.png" group-title="Brazil",BR| SporTV 3 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTpImZ75mEfyVJZiw0_p5V8/ts
+#EXTINF:-1 xui-id="326944" tvg-id="" tvg-name="BR| PREMIERE 1 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 1 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydmpK_kUl5IKizCtZbbXniY/ts
+#EXTINF:-1 xui-id="326943" tvg-id="premiere2.br" tvg-name="BR| PREMIERE 2 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 2 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yaLfwy7JM6TaVln7_CmJVW4/ts
+#EXTINF:-1 xui-id="326942" tvg-id="premiere3.br" tvg-name="BR| PREMIERE 3 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 3 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVA5diIjwoddyfTasp4XYpM/ts
+#EXTINF:-1 xui-id="326941" tvg-id="premiere4.br" tvg-name="BR| PREMIERE 4 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 4 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYs61De-ug_nJ3tOwA3vpok/ts
+#EXTINF:-1 xui-id="326940" tvg-id="premiere5.br" tvg-name="BR| PREMIERE 5 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 5 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWxqVyDrId-dnH01j4KOs9I/ts
+#EXTINF:-1 xui-id="326939" tvg-id="premiere6.br" tvg-name="BR| PREMIERE 6 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 6 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycZ_p2H96dAWVNQSP-HVGdQ/ts
+#EXTINF:-1 xui-id="326938" tvg-id="premiere7.br" tvg-name="BR| PREMIERE 7 FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 7 FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTlB4cVF3mxVSZKqsN13Cpw/ts
+#EXTINF:-1 xui-id="326937" tvg-id="premiere8.br" tvg-name="BR| PREMIERE 8 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE 8 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybS9UaBdLZ2Pga1F4jY3sdo/ts
+#EXTINF:-1 xui-id="326936" tvg-id="premiereclubes.br" tvg-name="BR| PREMIERE CLUBES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/premiere-br.png" group-title="Brazil",BR| PREMIERE CLUBES HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRvRUC61_n_SL5rL3Sjm8tE/ts
+#EXTINF:-1 xui-id="326935" tvg-id="a&e.br" tvg-name="BR| A&E HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/a-and-e-br.png" group-title="Brazil",BR| A&E HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTm9DtLEE9AC97u07k9NJvM/ts
+#EXTINF:-1 xui-id="326934" tvg-id="" tvg-name="BR| AGROMAIS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/agro-mais-br.png" group-title="Brazil",BR| AGROMAIS
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTtEX2Mv9gDHqokjiY6E47s/ts
+#EXTINF:-1 xui-id="326933" tvg-id="amc.br" tvg-name="BR| AMC FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/amc-es.png" group-title="Brazil",BR| AMC FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRu4z7Xs5nnE2ZfG681D1c4/ts
+#EXTINF:-1 xui-id="326932" tvg-id="animalplanet.br" tvg-name="BR| ANIMAL PLANET HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/animal-planet-ca.png" group-title="Brazil",BR| ANIMAL PLANET HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydLHHJN_7IpnsNH3NWjUf8A/ts
+#EXTINF:-1 xui-id="326931" tvg-id="arte1.br" tvg-name="BR| ARTE 1 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/arte1-br.png" group-title="Brazil",BR| ARTE 1 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRWX0hYN3lqHQLthjOMc3UY/ts
+#EXTINF:-1 xui-id="326930" tvg-id="axn.br" tvg-name="BR| AXN HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/axn-br.png" group-title="Brazil",BR| AXN HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yU4seT79gS5mjtSfXtKz_XU/ts
+#EXTINF:-1 xui-id="326929" tvg-id="babytv.br" tvg-name="BR| BABY TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/baby-tv-pl.png" group-title="Brazil",BR| BABY TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWgLluMY7I_XXDsb1kRU7Ik/ts
+#EXTINF:-1 xui-id="326928" tvg-id="" tvg-name="BR| BAND CAMPINAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brazil",BR| BAND CAMPINAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVxI0SnXaTlBb001WMMtqjI/ts
+#EXTINF:-1 xui-id="326927" tvg-id="band.br" tvg-name="BR| BAND HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brazil",BR| BAND HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUjw-g4--Zl-xlDFCu0C79E/ts
+#EXTINF:-1 xui-id="326926" tvg-id="bandnews.br" tvg-name="BR| BAND NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-news-br.png" group-title="Brazil",BR| BAND NEWS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yaRKh77MNvNdgqH1no6S2v0/ts
+#EXTINF:-1 xui-id="326925" tvg-id="" tvg-name="BR| BAND NODESTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/band-br.png" group-title="Brazil",BR| BAND NODESTE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTdroyn3BVe3DvKm960ckzs/ts
+#EXTINF:-1 xui-id="326924" tvg-id="" tvg-name="BR| BBC WORLD NEWS HD" tvg-logo="https://s9.gifyu.com/images/SUdtE.png" group-title="Brazil",BR| BBC WORLD NEWS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWL5DqYajnPv94pt7suZ1Gc/ts
+#EXTINF:-1 xui-id="326923" tvg-id="" tvg-name="BR| BIS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/bis-br.png" group-title="Brazil",BR| BIS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWqqq0NvxFioJihxItvOcvI/ts
+#EXTINF:-1 xui-id="326922" tvg-id="" tvg-name="BR| BLOOMBERG TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/bloomberg-television-us.png" group-title="Brazil",BR| BLOOMBERG TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfPfPGa5UtYmPr_cz6wMNg0/ts
+#EXTINF:-1 xui-id="326921" tvg-id="boomerang.br" tvg-name="BR| BOOMERANG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/boomerang-ca.png" group-title="Brazil",BR| BOOMERANG HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySStvsDMHd-2u5pyUC1VGu4/ts
+#EXTINF:-1 xui-id="326920" tvg-id="canalbrasil.br" tvg-name="BR| CANAL BRASIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-brasil-br.png" group-title="Brazil",BR| CANAL BRASIL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ya3B9_MPMXxbc2ugcCRDZb4/ts
+#EXTINF:-1 xui-id="326919" tvg-id="" tvg-name="BR| CANAL DO BOI HD" tvg-logo="https://s9.gifyu.com/images/SFccw.png" group-title="Brazil",BR| CANAL DO BOI HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRTTbYnd09G_7Fgh4v5FEm0/ts
+#EXTINF:-1 xui-id="326918" tvg-id="" tvg-name="BR| CANAL RURAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-rural-br.png" group-title="Brazil",BR| CANAL RURAL
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yW9HP39_QXJV6naSTSmpEos/ts
+#EXTINF:-1 xui-id="326917" tvg-id="" tvg-name="BR| CANAL SONY FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Brazil",BR| CANAL SONY FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQKQjv1USsPQ8O5tnNMHZ7Y/ts
+#EXTINF:-1 xui-id="326916" tvg-id="" tvg-name="BR| CANC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova-tv-br.png" group-title="Brazil",BR| CANC HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVVn5Qd1ExjVYMs1ca6BBRA/ts
+#EXTINF:-1 xui-id="326915" tvg-id="" tvg-name="BR| CANÇÃO NOVA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cancao-nova-tv-br.png" group-title="Brazil",BR| CANÇÃO NOVA FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yThk_4YHAiW3pTevHcuwAFg/ts
+#EXTINF:-1 xui-id="326914" tvg-id="" tvg-name="BR| CARTOONITO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cartoonito-br.png" group-title="Brazil",BR| CARTOONITO
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yY0wEA76xPkAQprfWAuExqE/ts
+#EXTINF:-1 xui-id="326913" tvg-id="cartoonnetwork.br" tvg-name="BR| CARTOON NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/cartoon-network-uk.png" group-title="Brazil",BR| CARTOON NETWORK HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRocZt0zejxmwEUSf_o4cnw/ts
+#EXTINF:-1 xui-id="326912" tvg-id="" tvg-name="BR| CAZE TV HD" tvg-logo="https://s9.gifyu.com/images/SFcQ1.png" group-title="Brazil",BR| CAZE TV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydWOqp9b6NsFlVnR-6WAcVU/ts
+#EXTINF:-1 xui-id="326911" tvg-id="" tvg-name="BR| CBI" tvg-logo="" group-title="Brazil",BR| CBI
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVeh6eOaOkcsij7w76FULLs/ts
+#EXTINF:-1 xui-id="326910" tvg-id="" tvg-name="BR| CINECANAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cine-canal-br.png" group-title="Brazil",BR| CINECANAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yaw3JhPU13eViEBBPf8Q1JA/ts
+#EXTINF:-1 xui-id="326909" tvg-id="cinemax.br" tvg-name="BR| CINEMAX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/cinemax-br.png" group-title="Brazil",BR| CINEMAX HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUkJ6kIM3K9EXiQGNU2BKeo/ts
+#EXTINF:-1 xui-id="326908" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 1" tvg-logo="https://s9.gifyu.com/images/SFcc5.png" group-title="Brazil",BR| CINE PIPOCA 1
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUXlMgg4SWtS3ZKKuiRzZ0s/ts
+#EXTINF:-1 xui-id="326907" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 2" tvg-logo="https://s9.gifyu.com/images/SFcct.png" group-title="Brazil",BR| CINE PIPOCA 2
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTLqK7IdvDZhD3RzGHnshlA/ts
+#EXTINF:-1 xui-id="326906" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 3" tvg-logo="https://s9.gifyu.com/images/SFccr.png" group-title="Brazil",BR| CINE PIPOCA 3
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQd30bL9VQjPyVvmd94ux-Y/ts
+#EXTINF:-1 xui-id="326905" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 4" tvg-logo="https://s9.gifyu.com/images/SFccY.png" group-title="Brazil",BR| CINE PIPOCA 4
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySIcJrOybnD1qEMcNpTniU8/ts
+#EXTINF:-1 xui-id="326904" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 6" tvg-logo="https://s9.gifyu.com/images/SFccU.png" group-title="Brazil",BR| CINE PIPOCA 6
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXIcE7L601cxrmhbHaGwwio/ts
+#EXTINF:-1 xui-id="326903" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 7" tvg-logo="https://s9.gifyu.com/images/SFcca.png" group-title="Brazil",BR| CINE PIPOCA 7
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUGYsx1dtOAUxbvRJpAb3gU/ts
+#EXTINF:-1 xui-id="326902" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 8" tvg-logo="https://s9.gifyu.com/images/SFccV.png" group-title="Brazil",BR| CINE PIPOCA 8
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySUToX5I9peimr96IbGb3PU/ts
+#EXTINF:-1 xui-id="326901" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 9" tvg-logo="https://s9.gifyu.com/images/SFccF.png" group-title="Brazil",BR| CINE PIPOCA 9
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUcOnpz_v7-ZH-6QP3IF3hA/ts
+#EXTINF:-1 xui-id="326900" tvg-id="telecinepipoca.br" tvg-name="BR| CINE PIPOCA 10" tvg-logo="https://s9.gifyu.com/images/SFccZ.png" group-title="Brazil",BR| CINE PIPOCA 10
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ye9OANmz1WS_67xHuqpkPFs/ts
+#EXTINF:-1 xui-id="326899" tvg-id="" tvg-name="BR| CINE SKY 01 HD" tvg-logo="https://s9.gifyu.com/images/SFcgr.png" group-title="Brazil",BR| CINE SKY 01 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQYPTP3fP0OTtyI6XWq3IKY/ts
+#EXTINF:-1 xui-id="326898" tvg-id="" tvg-name="BR| CINE SKY 02 HD" tvg-logo="https://s9.gifyu.com/images/SFcg5.png" group-title="Brazil",BR| CINE SKY 02 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycob0UUuiPYphxfHPRjOZqY/ts
+#EXTINF:-1 xui-id="326897" tvg-id="" tvg-name="BR| CINE SKY 03 HD" tvg-logo="https://s9.gifyu.com/images/SFcgo.png" group-title="Brazil",BR| CINE SKY 03 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVti-G__kdFcOjAShANni34/ts
+#EXTINF:-1 xui-id="326896" tvg-id="" tvg-name="BR| CINE SKY 04 HD" tvg-logo="https://s9.gifyu.com/images/SFcgt.png" group-title="Brazil",BR| CINE SKY 04 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yV_w7d2O8ftK1kFV89fAJoI/ts
+#EXTINF:-1 xui-id="326895" tvg-id="" tvg-name="BR| CINE SKY 05 HD" tvg-logo="https://s9.gifyu.com/images/SFcgD.png" group-title="Brazil",BR| CINE SKY 05 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVhZL8ySYHLlzoioqJ0hDaM/ts
+#EXTINF:-1 xui-id="326894" tvg-id="" tvg-name="BR| CLARO TV+ 4K" tvg-logo="https://s9.gifyu.com/images/SFg28.png" group-title="Brazil",BR| CLARO TV+ 4K
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySBxapfvMzsfuhmqKzQmQDU/ts
+#EXTINF:-1 xui-id="326893" tvg-id="" tvg-name="BR| CLARO TV HD" tvg-logo="https://s9.gifyu.com/images/SFg20.png" group-title="Brazil",BR| CLARO TV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfTfYG-SzhPR3naaDxDnuX8/ts
+#EXTINF:-1 xui-id="326892" tvg-id="espnbrasil.br" tvg-name="BR| CNN BRASIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="Brazil",BR| CNN BRASIL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRGL662fJTGR-RgnYdXzYcc/ts
+#EXTINF:-1 xui-id="326891" tvg-id="" tvg-name="BR| CNN INTERNATIONAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/cnn-us.png" group-title="Brazil",BR| CNN INTERNATIONAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybFRaD2oBAr3RdBbuy8F8kk/ts
+#EXTINF:-1 xui-id="326890" tvg-id="combate.br" tvg-name="BR| COMBATE FHD" tvg-logo="https://s9.gifyu.com/images/SFcRb.png" group-title="Brazil",BR| COMBATE FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfIIz7RdOEoIeJXzPiab1fw/ts
+#EXTINF:-1 xui-id="326889" tvg-id="comedycentral.br" tvg-name="BR| COMEDY CENTRAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/comedy-central-es.png" group-title="Brazil",BR| COMEDY CENTRAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yaF_LKpQHEhOTgegJqSfE_M/ts
+#EXTINF:-1 xui-id="326888" tvg-id="" tvg-name="BR| CONMEBOL TV 1 HD" tvg-logo="https://s12.gifyu.com/images/SVTpx.png" group-title="Brazil",BR| CONMEBOL TV 1 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYKGh_OcGrzo2plHhkjpdC8/ts
+#EXTINF:-1 xui-id="326887" tvg-id="" tvg-name="BR| COPA CATARINENSE 1" tvg-logo="" group-title="Brazil",BR| COPA CATARINENSE 1
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybMVCSeYERCF7_n3fFzdOjs/ts
+#EXTINF:-1 xui-id="326886" tvg-id="" tvg-name="BR| COPA CATARINENSE 2" tvg-logo="" group-title="Brazil",BR| COPA CATARINENSE 2
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfa-LOfgM-Q0mAm5LaVD5m0/ts
+#EXTINF:-1 xui-id="326885" tvg-id="cultura.br" tvg-name="BR| CULTURA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-cultura-br.png" group-title="Brazil",BR| CULTURA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydkTUmVsaenfzt0rANMeC1I/ts
+#EXTINF:-1 xui-id="326884" tvg-id="" tvg-name="BR| CURTA! HD" tvg-logo="https://s9.gifyu.com/images/SFcge.png" group-title="Brazil",BR| CURTA! HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVqVxO87z0RneWwdqFkvOEo/ts
+#EXTINF:-1 xui-id="326883" tvg-id="" tvg-name="BR| DISCOVERY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/discovery-channel-es.png" group-title="Brazil",BR| DISCOVERY CHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yU5O1uK9zAZbR8qdF7VhxYo/ts
+#EXTINF:-1 xui-id="326882" tvg-id="discovery.br" tvg-name="BR| DISCOVERY H&H HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-home-and-health-ar.png" group-title="Brazil",BR| DISCOVERY H&H HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yU7njl8I9SiL2Li4enYrpvY/ts
+#EXTINF:-1 xui-id="326881" tvg-id="discoverykids.br" tvg-name="BR| DISCOVERY KIDS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-kids-br.png" group-title="Brazil",BR| DISCOVERY KIDS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUX-ZfvLegjeMmPYR2W9ppY/ts
+#EXTINF:-1 xui-id="326880" tvg-id="discoveryscience.br" tvg-name="BR| DISCOVERY SCIENCE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/discovery-science-icon-us.png" group-title="Brazil",BR| DISCOVERY SCIENCE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yb9Ds-EOB-AMYGKipQQCMv4/ts
+#EXTINF:-1 xui-id="326879" tvg-id="discoverytheater.br" tvg-name="BR| DISCOVERY THEATER HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/world-latin-america/discovery-theater-hd-lam.png" group-title="Brazil",BR| DISCOVERY THEATER HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXbpvIYaKt49VEPz0B6Jpq0/ts
+#EXTINF:-1 xui-id="326878" tvg-id="discoveryturbo.br" tvg-name="BR| DISCOVERY TURBO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/discovery-turbo-br.png" group-title="Brazil",BR| DISCOVERY TURBO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybLsMz6klItO8Qf2T-3SX2M/ts
+#EXTINF:-1 xui-id="326877" tvg-id="discoveryworld.br" tvg-name="BR| DISCOVERY WORLD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/discovery-world-hd-ar.png" group-title="Brazil",BR| DISCOVERY WORLD HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQgpEMoUgpoFP2c45w4mi04/ts
+#EXTINF:-1 xui-id="326876" tvg-id="" tvg-name="BR| DISNEY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/disney-channel-es.png" group-title="Brazil",BR| DISNEY CHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUXvRGUWF7RJ7mezoxs4p4Y/ts
+#EXTINF:-1 xui-id="326875" tvg-id="" tvg-name="BR| DOG TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/dog-tv-us.png" group-title="Brazil",BR| DOG TV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYybMor4V6pfTFWvf1FvMu0/ts
+#EXTINF:-1 xui-id="326874" tvg-id="" tvg-name="BR| DW TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/dw-de.png" group-title="Brazil",BR| DW TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUK6hXiidpoHwOy4f-QC-7A/ts
+#EXTINF:-1 xui-id="326873" tvg-id="" tvg-name="BR| E! ENTERTAINMENT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/e-entertainment-de.png" group-title="Brazil",BR| E! ENTERTAINMENT HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVweFDuJ9jxjCSfhi-KjEx0/ts
+#EXTINF:-1 xui-id="326872" tvg-id="" tvg-name="BR| ESTÁDIO TNT SPORTS 1 HD" tvg-logo="https://s9.gifyu.com/images/SFc89.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 1 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yalLWy8Q35BX5EPIm-Svovk/ts
+#EXTINF:-1 xui-id="326871" tvg-id="" tvg-name="BR| ESTÁDIO TNT SPORTS 2 HD" tvg-logo="https://s9.gifyu.com/images/SFc8E.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 2 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUGY4Up64J0mtn7T6isfvm4/ts
+#EXTINF:-1 xui-id="326870" tvg-id="" tvg-name="BR| ESTÁDIO TNT SPORTS 3" tvg-logo="https://s9.gifyu.com/images/SFcWU.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 3
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUJ_SiBz25XL1FjGa01vErM/ts
+#EXTINF:-1 xui-id="326869" tvg-id="" tvg-name="BR| ESTÁDIO TNT SPORTS 4" tvg-logo="https://s9.gifyu.com/images/SFcWC.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 4
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXlQcN91AMNd2wmWTKFxziQ/ts
+#EXTINF:-1 xui-id="326868" tvg-id="" tvg-name="BR| ESTÁDIO TNT SPORTS 5" tvg-logo="https://s9.gifyu.com/images/SFcWF.png" group-title="Brazil",BR| ESTÁDIO TNT SPORTS 5
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yU9I7ILXoH7wpHOQu34PnII/ts
+#EXTINF:-1 xui-id="326867" tvg-id="" tvg-name="BR| EUROCHANNEL HD" tvg-logo="https://s9.gifyu.com/images/SUVKD.png" group-title="Brazil",BR| EUROCHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yb339RYMzhA3nFXFQ_yvVf8/ts
+#EXTINF:-1 xui-id="326866" tvg-id="" tvg-name="BR| FASHION TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/fashion-tv-int.png" group-title="Brazil",BR| FASHION TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ya6g6R1k35gp-a_LA6IhFbs/ts
+#EXTINF:-1 xui-id="326865" tvg-id="" tvg-name="BR| FILM & ARTS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/film-and-arts-ar.png" group-title="Brazil",BR| FILM & ARTS
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWg2v8OsZ1YYyrfdk-iSmBQ/ts
+#EXTINF:-1 xui-id="326864" tvg-id="fishtv.br" tvg-name="BR| FISH TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fish-tv-br.png" group-title="Brazil",BR| FISH TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVqlIAHzp_kbbAjjqwtp4fc/ts
+#EXTINF:-1 xui-id="326863" tvg-id="foodnetwork.br" tvg-name="BR| FOOD NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/poland/food-network-pl.png" group-title="Brazil",BR| FOOD NETWORK HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydMyscF6HuLg-dXDgZDMaH8/ts
+#EXTINF:-1 xui-id="326862" tvg-id="foxsports2.br" tvg-name="BR| FOX SPORTS 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/fox-sports-2-br.png" group-title="Brazil",BR| FOX SPORTS 2 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXzuXdtykJJRf6i6Jv_yI7c/ts
+#EXTINF:-1 xui-id="326861" tvg-id="" tvg-name="BR| FRANCE 24 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/france-24-fr.png" group-title="Brazil",BR| FRANCE 24 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQPMpM95IJzcHs_eFnfiUws/ts
+#EXTINF:-1 xui-id="326860" tvg-id="futura.br" tvg-name="BR| FUTURA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/futura-br.png" group-title="Brazil",BR| FUTURA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySP-Xt-3pWYQiAjinR_6q28/ts
+#EXTINF:-1 xui-id="326859" tvg-id="fx.br" tvg-name="BR| FX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/fx-ar.png" group-title="Brazil",BR| FX HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYZXBRaDpGsNfdZ1Uk1lLuo/ts
+#EXTINF:-1 xui-id="326858" tvg-id="" tvg-name="BR| GLOBO AMAZONAS HD" tvg-logo="https://s9.gifyu.com/images/SFc4W.png" group-title="Brazil",BR| GLOBO AMAZONAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfXW0VxwVl7Zux_fSl789GI/ts
+#EXTINF:-1 xui-id="326857" tvg-id="" tvg-name="BR| GLOBO ANHANGUERA GOIANIA HD" tvg-logo="https://s9.gifyu.com/images/SFc4g.png" group-title="Brazil",BR| GLOBO ANHANGUERA GOIANIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWRz1FB8r_FgmnV8VQuk4OM/ts
+#EXTINF:-1 xui-id="326856" tvg-id="" tvg-name="BR| GLOBO BAHIA HD" tvg-logo="https://s9.gifyu.com/images/SFc4i.webp" group-title="Brazil",BR| GLOBO BAHIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUvwAWzByySh9GstkMTpVpM/ts
+#EXTINF:-1 xui-id="326855" tvg-id="" tvg-name="BR| GLOBO BRASILIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO BRASILIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVdk8lMC2QMw7LAgIyU6yaY/ts
+#EXTINF:-1 xui-id="326854" tvg-id="" tvg-name="BR| GLOBO CUIABA HD" tvg-logo="https://s9.gifyu.com/images/SFc4V.png" group-title="Brazil",BR| GLOBO CUIABA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZkicRkOZ-wF0PEIIbp4eD0/ts
+#EXTINF:-1 xui-id="326853" tvg-id="" tvg-name="BR| GLOBO EPTV ARARAQUARA HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV ARARAQUARA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydfxhd1EHEWCAcqLZpcR_l4/ts
+#EXTINF:-1 xui-id="326852" tvg-id="" tvg-name="BR| GLOBO EPTV CAMPINAS HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV CAMPINAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yU4EgfiFKMLSEsgYXx6DGpw/ts
+#EXTINF:-1 xui-id="326851" tvg-id="" tvg-name="BR| GLOBO EPTV RIBEIRAO PRETO HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV RIBEIRAO PRETO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybRtPiU7QJmfsQhJk_xUmFM/ts
+#EXTINF:-1 xui-id="326850" tvg-id="" tvg-name="BR| GLOBO EPTV RIBEIR HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV RIBEIR HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yW9KTLf5cGHuj6Gch95uHfI/ts
+#EXTINF:-1 xui-id="326849" tvg-id="" tvg-name="BR| GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV RIBEIRÃO PRETO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQi90wU305c74NhLmxsxWds/ts
+#EXTINF:-1 xui-id="326848" tvg-id="" tvg-name="BR| GLOBO EPTV SAO CARLOS HD" tvg-logo="https://s9.gifyu.com/images/SFcWy.png" group-title="Brazil",BR| GLOBO EPTV SAO CARLOS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYq6jOCyWj5x43V0JAFPSKw/ts
+#EXTINF:-1 xui-id="326847" tvg-id="" tvg-name="BR| GLOBO INTERNACIONAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/globo-internacional-pt.png" group-title="Brazil",BR| GLOBO INTERNACIONAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yePJ9Na9SbbB49pkb9ZHY44/ts
+#EXTINF:-1 xui-id="326846" tvg-id="" tvg-name="BR| GLOBO INTERTV ALTO LITORAL HD" tvg-logo="https://s9.gifyu.com/images/SFcWD.png" group-title="Brazil",BR| GLOBO INTERTV ALTO LITORAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZ3gImePUSlaSd9Sj8TcLBI/ts
+#EXTINF:-1 xui-id="326845" tvg-id="" tvg-name="BR| GLOBO INTER TV CABUGI RN HD" tvg-logo="https://s9.gifyu.com/images/SFcWD.png" group-title="Brazil",BR| GLOBO INTER TV CABUGI RN HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUgBo3AzgjR0Jo4KnnJIuv0/ts
+#EXTINF:-1 xui-id="326844" tvg-id="" tvg-name="BR| GLOBO INTERTV SERRA MAR HD" tvg-logo="https://s9.gifyu.com/images/SFcWD.png" group-title="Brazil",BR| GLOBO INTERTV SERRA MAR HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYzcgfIGALqJIEZdqa3Ttio/ts
+#EXTINF:-1 xui-id="326843" tvg-id="globonews.br" tvg-name="BR| GLOBO NEWS FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-news-br.png" group-title="Brazil",BR| GLOBO NEWS FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZrHsPalop-qmKoGAu6LxvM/ts
+#EXTINF:-1 xui-id="326842" tvg-id="globonordeste.br" tvg-name="BR| GLOBO NORDESTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NORDESTE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yck7efPMIrTtgpIOFq_xWkA/ts
+#EXTINF:-1 xui-id="326841" tvg-id="" tvg-name="BR| GLOBO NSC BLUMENAU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NSC BLUMENAU HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVnACpIv5xQlkzGU69lrXnE/ts
+#EXTINF:-1 xui-id="326840" tvg-id="" tvg-name="BR| GLOBO NSC FLORIANÓPOLIS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NSC FLORIANÓPOLIS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYOXPLQH1j1vSXvSXWi_bHY/ts
+#EXTINF:-1 xui-id="326839" tvg-id="" tvg-name="BR| GLOBO NSC JOINVILLE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO NSC JOINVILLE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVru7TdytGTpAbxwl2-wjl0/ts
+#EXTINF:-1 xui-id="326838" tvg-id="" tvg-name="BR| GLOBO PETROLINA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO PETROLINA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycgS7XXp6IxNNHQU3wTYHac/ts
+#EXTINF:-1 xui-id="326837" tvg-id="rbstvportoalegre.br" tvg-name="BR| GLOBO RBS PORTO ALEGRE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RBS PORTO ALEGRE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybsKFCfouvm4YIkB0C2qGV0/ts
+#EXTINF:-1 xui-id="326836" tvg-id="" tvg-name="BR| GLOBO RBS TV PELOTAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RBS TV PELOTAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQRmqs0DQvZyn9Bi1_lxNHw/ts
+#EXTINF:-1 xui-id="326835" tvg-id="" tvg-name="BR| GLOBO REDE AMAZONICA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO REDE AMAZONICA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yeVNRiXFo3JNxZItrE0JLsY/ts
+#EXTINF:-1 xui-id="326834" tvg-id="" tvg-name="BR| GLOBO REDE AMAZÔNICA BOA VISTA HD" tvg-logo="https://s9.gifyu.com/images/SFcWf.png" group-title="Brazil",BR| GLOBO REDE AMAZÔNICA BOA VISTA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycrllhRxtq0ozEnz0wJ7W5w/ts
+#EXTINF:-1 xui-id="326833" tvg-id="" tvg-name="BR| GLOBO REDE AMAZÔNICA PORTO VELHO HD" tvg-logo="https://s9.gifyu.com/images/SFcWf.png" group-title="Brazil",BR| GLOBO REDE AMAZÔNICA PORTO VELHO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRceAOVzYVesNXYcV9jyWsA/ts
+#EXTINF:-1 xui-id="326832" tvg-id="" tvg-name="BR| GLOBO REDE AMAZÔNICA RIO BRANCO HD" tvg-logo="https://s9.gifyu.com/images/SFcWf.png" group-title="Brazil",BR| GLOBO REDE AMAZÔNICA RIO BRANCO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ye6k9Rzu6nEJAXMSwcApgr8/ts
+#EXTINF:-1 xui-id="326831" tvg-id="" tvg-name="BR| GLOBO RIBEIR HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RIBEIR HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySBdHTzTW-0yEZWomimD-hI/ts
+#EXTINF:-1 xui-id="326830" tvg-id="" tvg-name="BR| GLOBO RIO GRANDE DO NORTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RIO GRANDE DO NORTE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySNhCV6whEyPoTJlsv_VZiM/ts
+#EXTINF:-1 xui-id="326829" tvg-id="" tvg-name="BR| GLOBO RPC CURITIBA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RPC CURITIBA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yS_ZfFMMRWzHaqRtDuRtKuo/ts
+#EXTINF:-1 xui-id="326828" tvg-id="" tvg-name="BR| GLOBO RPC MARINGA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RPC MARINGA
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yU90OFAOY4j0oOMkPUmX5IY/ts
+#EXTINF:-1 xui-id="326827" tvg-id="" tvg-name="BR| GLOBO RPC TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO RPC TV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWCmYVPXG3Ighs5rZMQDA88/ts
+#EXTINF:-1 xui-id="326826" tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO SP HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yY_H3jgGp5dWm2NTAv13X70/ts
+#EXTINF:-1 xui-id="326825" tvg-id="globosp.br" tvg-name="BR| GLOBO SP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO SP HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydDWi2OdPnnx9tn6MFuVsYI/ts
+#EXTINF:-1 xui-id="326824" tvg-id="" tvg-name="BR| GLOBO TV BAHIA HD" tvg-logo="https://s9.gifyu.com/images/SFc4i.webp" group-title="Brazil",BR| GLOBO TV BAHIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZo-wtpoyNbO84-SM2W4mBA/ts
+#EXTINF:-1 xui-id="326823" tvg-id="" tvg-name="BR| GLOBO TV BELEM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV BELEM HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQR7cwNrUN2uYks_9EEa8K0/ts
+#EXTINF:-1 xui-id="326822" tvg-id="" tvg-name="BR| GLOBO TV CABO BRANCO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV CABO BRANCO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yb_ZrisrRqx3A5eOFXlDU1E/ts
+#EXTINF:-1 xui-id="326821" tvg-id="" tvg-name="BR| GLOBO TV CARUARU (ASA BRANCA) HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV CARUARU (ASA BRANCA) HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWriasKp8gHqXI666ZoKM0g/ts
+#EXTINF:-1 xui-id="326820" tvg-id="" tvg-name="BR| GLOBO TV DIARIO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV DIARIO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yR4Ye2vT9_uzwqDWfGN0GeI/ts
+#EXTINF:-1 xui-id="326819" tvg-id="" tvg-name="BR| GLOBO TV FRONTEIRA PAULISTA HD" tvg-logo="https://s9.gifyu.com/images/SFcW1.webp" group-title="Brazil",BR| GLOBO TV FRONTEIRA PAULISTA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yecg9yU-bJ5cW6VHWCF-p68/ts
+#EXTINF:-1 xui-id="326818" tvg-id="" tvg-name="BR| GLOBO TV GAZETA SUL ES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV GAZETA SUL ES HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWv73jkl1Dffsd8xqi8BjvU/ts
+#EXTINF:-1 xui-id="326817" tvg-id="" tvg-name="BR| GLOBO TV GAZETA VITÓRIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV GAZETA VITÓRIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySFonSYIYYTxp0IgYK00K7c/ts
+#EXTINF:-1 xui-id="326816" tvg-id="" tvg-name="BR| GLOBO TV INTEGRAÇÃO ARAXA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV INTEGRAÇÃO ARAXA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yS-vrctpA83vN7M6vpT7l2U/ts
+#EXTINF:-1 xui-id="326815" tvg-id="" tvg-name="BR| GLOBO TV ITAPETININGA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV ITAPETININGA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydrWfEVHoXwieRXD05awAGU/ts
+#EXTINF:-1 xui-id="326814" tvg-id="" tvg-name="BR| GLOBO TV LIBERAL BELEM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV LIBERAL BELEM HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydr0pgEu9eQ81Pw2MMyOb8g/ts
+#EXTINF:-1 xui-id="326813" tvg-id="" tvg-name="BR| GLOBO TV MIRANTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV MIRANTE
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydn5PYfKS-KIfMpjf8-WudM/ts
+#EXTINF:-1 xui-id="326812" tvg-id="" tvg-name="BR| GLOBO TV MORENA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV MORENA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYr77fTLpsplJnrba4h3LXM/ts
+#EXTINF:-1 xui-id="326811" tvg-id="" tvg-name="BR| GLOBO TV NACIONAL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV NACIONAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQqiu3wbNlHW0Z2mLyYCcRA/ts
+#EXTINF:-1 xui-id="326810" tvg-id="" tvg-name="BR| GLOBO TV SERGIPE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV SERGIPE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybzKXZm55mL5IrCkMHzIe44/ts
+#EXTINF:-1 xui-id="326809" tvg-id="" tvg-name="BR| GLOBO TV TEM BAURU HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV TEM BAURU HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTPX3NiAztxW2foLc1FiQ7k/ts
+#EXTINF:-1 xui-id="326808" tvg-id="" tvg-name="BR| GLOBO TV TEM RIO PRETO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV TEM RIO PRETO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVE75ZoPfUqrM2tCeZ2G5qg/ts
+#EXTINF:-1 xui-id="326807" tvg-id="" tvg-name="BR| GLOBO TV TEM SOROCABA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV TEM SOROCABA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycR78ibbdY1oPGtPQZ_m7TQ/ts
+#EXTINF:-1 xui-id="326806" tvg-id="" tvg-name="BR| GLOBO TV TRIBUNA SANTOS HD" tvg-logo="https://s9.gifyu.com/images/SFcWB.png" group-title="Brazil",BR| GLOBO TV TRIBUNA SANTOS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySsa5dvNeQ1DUIHlfQKJAxs/ts
+#EXTINF:-1 xui-id="326805" tvg-id="" tvg-name="BR| GLOBO TV VANGUARDA S.J DOS CAMPOS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV VANGUARDA S.J DOS CAMPOS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ye8-q_xSXsLQN7cgY0vTuqc/ts
+#EXTINF:-1 xui-id="326804" tvg-id="" tvg-name="BR| GLOBO TV VERDES MARES FORTALEZA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/globo-br.png" group-title="Brazil",BR| GLOBO TV VERDES MARES FORTALEZA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVFl0ddVw_RR8uyGYgQkuPE/ts
+#EXTINF:-1 xui-id="326803" tvg-id="gloob.br" tvg-name="BR| GLOOB HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/gloob-br.png" group-title="Brazil",BR| GLOOB HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXbN_PnuVeC5JFRIJRRli48/ts
+#EXTINF:-1 xui-id="326802" tvg-id="" tvg-name="BR| GLOOBINHO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/gloobinho-br.png" group-title="Brazil",BR| GLOOBINHO
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZOun-2X5A01L7cGkxGPVd0/ts
+#EXTINF:-1 xui-id="326801" tvg-id="gnt.br" tvg-name="BR| GNT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/gnt-br.png" group-title="Brazil",BR| GNT FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTrQld0N3qz2R0UYpgjPdDM/ts
+#EXTINF:-1 xui-id="326800" tvg-id="hbo.br" tvg-name="BR| HBO+ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-plus-br.png" group-title="Brazil",BR| HBO+ HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYRVXpObtHvlA60XQG2ZmcU/ts
+#EXTINF:-1 xui-id="326799" tvg-id="hbo2.br" tvg-name="BR| HBO 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-2-br.png" group-title="Brazil",BR| HBO 2 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTJ5_LPBWMrzCtYifFPuQzY/ts
+#EXTINF:-1 xui-id="326798" tvg-id="hbofamily.br" tvg-name="BR| HBO FAMILY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-family-br.png" group-title="Brazil",BR| HBO FAMILY HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySoDZnuTQealBQsbUVl2wyE/ts
+#EXTINF:-1 xui-id="326797" tvg-id="hbo.br" tvg-name="BR| HBO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-br.png" group-title="Brazil",BR| HBO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRvtcH8HWUaZ0XKgR9jvXw8/ts
+#EXTINF:-1 xui-id="326796" tvg-id="" tvg-name="BR| HBO MUNDI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-mundi-br.png" group-title="Brazil",BR| HBO MUNDI HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yeY7RzTaUc5_QKtkzPPad3s/ts
+#EXTINF:-1 xui-id="326795" tvg-id="" tvg-name="BR| HBO POP FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-pop-br.png" group-title="Brazil",BR| HBO POP FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycmFlEHioSkhadesVQz6Thc/ts
+#EXTINF:-1 xui-id="326794" tvg-id="" tvg-name="BR| HBO SIGNATURE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-signature-br.png" group-title="Brazil",BR| HBO SIGNATURE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYyaNXe8hcbGo4Xi4KLXD7U/ts
+#EXTINF:-1 xui-id="326793" tvg-id="hboxtreme.br" tvg-name="BR| HBO XTREME HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/hbo-xtreme-br.png" group-title="Brazil",BR| HBO XTREME HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTMOqLNTSJhj6BbwsIUhDyM/ts
+#EXTINF:-1 xui-id="326792" tvg-id="hgtv.br" tvg-name="BR| HGTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/hgtv-de.png" group-title="Brazil",BR| HGTV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQMzX-CzTxY_pHaKsGWyhLE/ts
+#EXTINF:-1 xui-id="326791" tvg-id="historychannel.br" tvg-name="BR| HISTORY CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-ca.png" group-title="Brazil",BR| HISTORY CHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYPMIRsfgkRngVwyC4n1EDw/ts
+#EXTINF:-1 xui-id="326790" tvg-id="historychannel.br" tvg-name="BR| HISTORY 2 CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/history-channel-2-ca.png" group-title="Brazil",BR| HISTORY 2 CHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybX-GwR8quBLMHj1-KtiPog/ts
+#EXTINF:-1 xui-id="326789" tvg-id="investigaçãodiscovery.br" tvg-name="BR| INVESTIGAÇÃO DISCOVERY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/investigation-discovery-us.png" group-title="Brazil",BR| INVESTIGAÇÃO DISCOVERY HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yScmff0mBrd1n6iTtzeEvqM/ts
+#EXTINF:-1 xui-id="326788" tvg-id="" tvg-name="BR| JOVEM PAN NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/jovem-pan-news-br.png" group-title="Brazil",BR| JOVEM PAN NEWS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yatULTez6TeAkYHaK18ncjs/ts
+#EXTINF:-1 xui-id="326787" tvg-id="lifetime.br" tvg-name="BR| LIFETIME FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/lifetime-us.png" group-title="Brazil",BR| LIFETIME FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfqTH42VhsBL_KmsQWuhEq8/ts
+#EXTINF:-1 xui-id="326786" tvg-id="" tvg-name="BR| LIKE" tvg-logo="" group-title="Brazil",BR| LIKE
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycWEDdtm4UTnKxIvwRY6G9o/ts
+#EXTINF:-1 xui-id="326785" tvg-id="" tvg-name="BR| MAIS GLOBOSAT FHD" tvg-logo="https://s9.gifyu.com/images/SFc6w.png" group-title="Brazil",BR| MAIS GLOBOSAT FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVwe8h0gAYI5q4eKdhmDmG4/ts
+#EXTINF:-1 xui-id="326784" tvg-id="megapix.br" tvg-name="BR| MEGAPIX HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/megapix-br.png" group-title="Brazil",BR| MEGAPIX HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQQ7YtgKN4QoApKfFf6FyGo/ts
+#EXTINF:-1 xui-id="326783" tvg-id="" tvg-name="BR| MEZZO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mezzo-es.png" group-title="Brazil",BR| MEZZO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycM-PTF3odQl4jlVvVkNygM/ts
+#EXTINF:-1 xui-id="326782" tvg-id="" tvg-name="BR| MODO VIAGEM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/modo-viagem-br.png" group-title="Brazil",BR| MODO VIAGEM
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydl6QuQS5Y4jpcD9EJAtgPA/ts
+#EXTINF:-1 xui-id="326781" tvg-id="" tvg-name="BR| MTV 00's" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-00s-es.png" group-title="Brazil",BR| MTV 00's
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yewc7cArU6j4_HwHS1n89sA/ts
+#EXTINF:-1 xui-id="326780" tvg-id="mtv.br" tvg-name="BR| MTV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-es.png" group-title="Brazil",BR| MTV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ya-f3dEjbVGa63hBLDXhi0w/ts
+#EXTINF:-1 xui-id="326779" tvg-id="" tvg-name="BR| MTV LIVE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/mtv-live-es.png" group-title="Brazil",BR| MTV LIVE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ye0pOMVMnYmBGvcNbcK0Wm4/ts
+#EXTINF:-1 xui-id="326778" tvg-id="multishow.br" tvg-name="BR| MULTISHOW FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/multishow-br.png" group-title="Brazil",BR| MULTISHOW FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTioWKYVjAtjdp3D56enGBg/ts
+#EXTINF:-1 xui-id="326777" tvg-id="" tvg-name="BR| MUSIC BOX BRAZIL" tvg-logo="" group-title="Brazil",BR| MUSIC BOX BRAZIL
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfcJOCZpIsSjMigGqquQSFw/ts
+#EXTINF:-1 xui-id="326776" tvg-id="" tvg-name="BR| NAT GEO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/serbia/national-geographic-rs.png" group-title="Brazil",BR| NAT GEO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTx1GrTupi38IPOnFeOo9CU/ts
+#EXTINF:-1 xui-id="326775" tvg-id="" tvg-name="BR| NHK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/nhk-world-japan-int.png" group-title="Brazil",BR| NHK HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yT1AxQUzU664mFsGgz5JnwA/ts
+#EXTINF:-1 xui-id="326774" tvg-id="" tvg-name="BR| NICKELODEON" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/germany/nick-de.png" group-title="Brazil",BR| NICKELODEON
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYdZkUnT240v3JzAI1vY1Ls/ts
+#EXTINF:-1 xui-id="326773" tvg-id="nickjr.br" tvg-name="BR| NICK JR." tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/italy/nick-jr-it.png" group-title="Brazil",BR| NICK JR.
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybv-wZCTfs6dVNwhhE0JqP0/ts
+#EXTINF:-1 xui-id="326772" tvg-id="" tvg-name="BR| NOSSO FUTEBOL EVENTUAL HD" tvg-logo="https://s9.gifyu.com/images/SFcJc.png" group-title="Brazil",BR| NOSSO FUTEBOL EVENTUAL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTr8wW-YqJ0UDXPNstwXNeY/ts
+#EXTINF:-1 xui-id="326771" tvg-id="" tvg-name="BR| NOSSO FUTEBOL 3 HD" tvg-logo="https://s9.gifyu.com/images/SFcJ4.png" group-title="Brazil",BR| NOSSO FUTEBOL 3 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZtCP1s9fW2JJwmPniHNbmo/ts
+#EXTINF:-1 xui-id="326770" tvg-id="" tvg-name="BR| NOSSO FUTEBOL 4 HD" tvg-logo="https://s9.gifyu.com/images/SFcJg.png" group-title="Brazil",BR| NOSSO FUTEBOL 4 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yb7zZ7BsnUH7c2ACmKnO-D0/ts
+#EXTINF:-1 xui-id="326769" tvg-id="" tvg-name="BR| NOVO TEMPO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/novo-tempo-br.png" group-title="Brazil",BR| NOVO TEMPO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydA623JoltJMXiSqwI0bsNo/ts
+#EXTINF:-1 xui-id="326768" tvg-id="off.br" tvg-name="BR| OFF HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/canal-off-br.png" group-title="Brazil",BR| OFF HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXW2IoR-7dn-at6EB8lxyO0/ts
+#EXTINF:-1 xui-id="326767" tvg-id="" tvg-name="BR| PARAMOUNT+ 1 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 1 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yd4FmX8ETpV4uCQ3WTxTVs4/ts
+#EXTINF:-1 xui-id="326766" tvg-id="" tvg-name="BR| PARAMOUNT+ 2 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 2 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRReXSofbYNJ9XwUw7Ml5Gs/ts
+#EXTINF:-1 xui-id="326765" tvg-id="" tvg-name="BR| PARAMOUNT+ 3 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 3 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfEvZhAOe-Mfemon2uB4_sU/ts
+#EXTINF:-1 xui-id="326764" tvg-id="" tvg-name="BR| PARAMOUNT+ 4 HD" tvg-logo="https://s9.gifyu.com/images/SFcJT.png" group-title="Brazil",BR| PARAMOUNT+ 4 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yW_HSBZM8_hyLrJ_wfmPWZs/ts
+#EXTINF:-1 xui-id="326763" tvg-id="" tvg-name="BR| PARAMOUNT NETWORK HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/paramount-network-es.png" group-title="Brazil",BR| PARAMOUNT NETWORK HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYSOo4DUOQJ8QOCmYAPdiMg/ts
+#EXTINF:-1 xui-id="326762" tvg-id="" tvg-name="BR| PLAY TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/play-tv-br.png" group-title="Brazil",BR| PLAY TV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yURrGYz1WnnIJEnZnIEi_G0/ts
+#EXTINF:-1 xui-id="326761" tvg-id="" tvg-name="BR| POLISHOP TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/polishop-br.png" group-title="Brazil",BR| POLISHOP TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZFekBxjF6H0_AWFreVUJiY/ts
+#EXTINF:-1 xui-id="326760" tvg-id="" tvg-name="BR| PRIME BOX BRAZIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/prime-box-brazil-br.png" group-title="Brazil",BR| PRIME BOX BRAZIL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVyp82BV0ztt_d8zLMFBI5Y/ts
+#EXTINF:-1 xui-id="326759" tvg-id="" tvg-name="BR| RAI INTERNATIONAL" tvg-logo="" group-title="Brazil",BR| RAI INTERNATIONAL
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQHof5e1gOlUx8VhG2vPBZ8/ts
+#EXTINF:-1 xui-id="326758" tvg-id="" tvg-name="BR| RECORD AMAZONAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD AMAZONAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yatL-RJzgX9FyyOhz8kWoP4/ts
+#EXTINF:-1 xui-id="326757" tvg-id="" tvg-name="BR| RECORD BAHIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD BAHIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yeslAMvLLjqBWSnS7WB0tJc/ts
+#EXTINF:-1 xui-id="326756" tvg-id="" tvg-name="BR| RECORD CAMPINAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD CAMPINAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yT5S0Ew7YPiAwCS_mb087yE/ts
+#EXTINF:-1 xui-id="326755" tvg-id="" tvg-name="BR| RECORD ESP. SANTO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD ESP. SANTO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yd8HIdq3qpYnGqcJvbvUegk/ts
+#EXTINF:-1 xui-id="326754" tvg-id="recordtv.br" tvg-name="BR| RECORD MG HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD MG HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUILi_2Swnp1-izNAHUd7Ow/ts
+#EXTINF:-1 xui-id="326753" tvg-id="recordnews.br" tvg-name="BR| RECORD NEWS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-news-br.png" group-title="Brazil",BR| RECORD NEWS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yeTvpr3cEYeoMFnhH1WUlWE/ts
+#EXTINF:-1 xui-id="326752" tvg-id="" tvg-name="BR| RECORD NORDESTE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD NORDESTE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRHlWyLIw1fRZLi2y3nCu7o/ts
+#EXTINF:-1 xui-id="326751" tvg-id="" tvg-name="BR| RECORD RJ HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD RJ HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXz6B9Hxu8L4qPNA5p_2Acg/ts
+#EXTINF:-1 xui-id="326750" tvg-id="recordtvrs.br" tvg-name="BR| RECORD RS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD RS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZn1_sXLtA2AaMGskhizv_o/ts
+#EXTINF:-1 xui-id="326749" tvg-id="" tvg-name="BR| RECORD SP HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD SP HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yUt03yDqrQiRF9AAAh-F1n0/ts
+#EXTINF:-1 xui-id="326748" tvg-id="" tvg-name="BR| RECORD TV BRASÍLIA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD TV BRASÍLIA FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yV8fYsf9K6SPUWspn9mcTyM/ts
+#EXTINF:-1 xui-id="326747" tvg-id="" tvg-name="BR| RECORD TV VITORIA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/record-br.png" group-title="Brazil",BR| RECORD TV VITORIA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRD4vmuGB-e3tUHPqZdOM10/ts
+#EXTINF:-1 xui-id="326746" tvg-id="" tvg-name="BR| REDE FAMILIA" tvg-logo="https://s9.gifyu.com/images/SFc6Z.png" group-title="Brazil",BR| REDE FAMILIA
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXMRpr_kffiRZLo_R8FP998/ts
+#EXTINF:-1 xui-id="326745" tvg-id="" tvg-name="BR| REDE GOSPEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-gospel-br.png" group-title="Brazil",BR| REDE GOSPEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybQaMZNzN1zUecft89CcJr8/ts
+#EXTINF:-1 xui-id="326744" tvg-id="" tvg-name="BR| REDE RECORD HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-record-br.png" group-title="Brazil",BR| REDE RECORD HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVONgCYQxAROXmdOumedb2E/ts
+#EXTINF:-1 xui-id="326743" tvg-id="" tvg-name="BR| REDE TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-tv-br.png" group-title="Brazil",BR| REDE TV HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydgcTMSW4Oxlv-xPYrYEltw/ts
+#EXTINF:-1 xui-id="326742" tvg-id="redevida.br" tvg-name="BR| REDE VIDA" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rede-vida-br.png" group-title="Brazil",BR| REDE VIDA
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yYgWuk-DJZ2W1T6HvO2FURE/ts
+#EXTINF:-1 xui-id="326741" tvg-id="" tvg-name="BR| RIT TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/rit-br.png" group-title="Brazil",BR| RIT TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yRaFtcGXyv0X3zxt-I350fQ/ts
+#EXTINF:-1 xui-id="326740" tvg-id="" tvg-name="BR| SBT GOIAS HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT GOIAS HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yf3Bz7P85cxZsGaOHs08VrU/ts
+#EXTINF:-1 xui-id="326739" tvg-id="sbt.br" tvg-name="BR| SBT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yWJs8RsL5-IXjC2ecDyuq4w/ts
+#EXTINF:-1 xui-id="326738" tvg-id="" tvg-name="BR| SBT NORDESTE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT NORDESTE
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfXl8_IvzVzTE0cZBiTtL8g/ts
+#EXTINF:-1 xui-id="326737" tvg-id="" tvg-name="BR| SBT RJ FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT RJ FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybWLGvIF5vNVeTUCn4TEm1A/ts
+#EXTINF:-1 xui-id="326736" tvg-id="" tvg-name="BR| SBT TV ARATU BAHIA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT TV ARATU BAHIA FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yamTZ9ZsL9og1E562tXg_eM/ts
+#EXTINF:-1 xui-id="326735" tvg-id="" tvg-name="BR| SBT TV CIDADE VERDE PIAUI HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT TV CIDADE VERDE PIAUI HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ybkAt5Kt-FBGm0oZ6gu-_rg/ts
+#EXTINF:-1 xui-id="326734" tvg-id="" tvg-name="BR| SBT TV JORNAL PERNAMBUCO" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sbt-br.png" group-title="Brazil",BR| SBT TV JORNAL PERNAMBUCO
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yS8-xiBQO6YZrR2_USNP7fo/ts
+#EXTINF:-1 xui-id="326733" tvg-id="" tvg-name="BR| SHOPTIME" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/shoptime-br.png" group-title="Brazil",BR| SHOPTIME
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXZIcYqLeb8NuUnNh5p8hAI/ts
+#EXTINF:-1 xui-id="326732" tvg-id="" tvg-name="BR| SONY CHANNEL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sony-channel-br.png" group-title="Brazil",BR| SONY CHANNEL
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySovW2NOqTkRoRMp8wQqP0E/ts
+#EXTINF:-1 xui-id="326731" tvg-id="space.br" tvg-name="BR| SPACE HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/space-br.png" group-title="Brazil",BR| SPACE HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yaoNAVYNb9wj3omVjY-BTAw/ts
+#EXTINF:-1 xui-id="326730" tvg-id="sportv.br" tvg-name="BR| SPORTV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv-br.png" group-title="Brazil",BR| SPORTV FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ya78Y7RB1cyWiFzBSyOXXMY/ts
+#EXTINF:-1 xui-id="326729" tvg-id="sportv2.br" tvg-name="BR| SPORTV 2 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv2-br.png" group-title="Brazil",BR| SPORTV 2 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZaz4zveb4J9DG5lp3_m97s/ts
+#EXTINF:-1 xui-id="326728" tvg-id="sportv3.br" tvg-name="BR| SPORTV 3 HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/sportv3-br.png" group-title="Brazil",BR| SPORTV 3 HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydBEUUrSgkJ3W0YQQLXLVqs/ts
+#EXTINF:-1 xui-id="326727" tvg-id="" tvg-name="BR| STAR CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/star-channel-br.png" group-title="Brazil",BR| STAR CHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yc6J2oAmJKnWL3v-C2iu3Q8/ts
+#EXTINF:-1 xui-id="326726" tvg-id="studiouniversal.br" tvg-name="BR| STUDIO UNIVERSAL FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/studio-universal-br.png" group-title="Brazil",BR| STUDIO UNIVERSAL FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yebJuj5cIcOBQPw0ceSJ-0g/ts
+#EXTINF:-1 xui-id="326725" tvg-id="syfy.br" tvg-name="BR| SYFY HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/spain/syfy-es.png" group-title="Brazil",BR| SYFY HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yewkUoyzWdDM8jywyG6FENQ/ts
+#EXTINF:-1 xui-id="326724" tvg-id="tbs.br" tvg-name="BR| TBS" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tbs-ar.png" group-title="Brazil",BR| TBS
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZMUi4-OQCv9dVhYqCiA2eM/ts
+#EXTINF:-1 xui-id="326723" tvg-id="tcm.br" tvg-name="BR| TCM" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tcm-ar.png" group-title="Brazil",BR| TCM
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yVT5CRJLNpOoJXxAg2o79ZQ/ts
+#EXTINF:-1 xui-id="326722" tvg-id="telecineaction.br" tvg-name="BR| TELECINE ACTION HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-action-br.png" group-title="Brazil",BR| TELECINE ACTION HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQyQUS5oUM1GpSBLVStu-kU/ts
+#EXTINF:-1 xui-id="326721" tvg-id="telecinecult.br" tvg-name="BR| TELECINE CULT FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-cult-br.png" group-title="Brazil",BR| TELECINE CULT FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfS5gruN2AobPNhM9wlRZeE/ts
+#EXTINF:-1 xui-id="326720" tvg-id="telecinefun.br" tvg-name="BR| TELECINE FUN FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-fun-br.png" group-title="Brazil",BR| TELECINE FUN FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yepOI6QgWa0rQP5rlUMlXjc/ts
+#EXTINF:-1 xui-id="326719" tvg-id="telecinepipoca.br" tvg-name="BR| TELECINE PIPOCA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-pipoca-br.png" group-title="Brazil",BR| TELECINE PIPOCA FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycRHx_yHhuECmERkGhd9P0k/ts
+#EXTINF:-1 xui-id="326718" tvg-id="telecinepremium.br" tvg-name="BR| TELECINE PREMIUM FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-premium-br.png" group-title="Brazil",BR| TELECINE PREMIUM FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yXpMiweBjL5DY7HS33aRdpc/ts
+#EXTINF:-1 xui-id="326717" tvg-id="telecinetouch.br" tvg-name="BR| TELECINE TOUCH FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tele-cine-touch-br.png" group-title="Brazil",BR| TELECINE TOUCH FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQixmNOY_fHJgftFsi5M9wI/ts
+#EXTINF:-1 xui-id="326716" tvg-id="tlc.br" tvg-name="BR| TLC HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/canada/tlc-ca.png" group-title="Brazil",BR| TLC HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yekR_kgehkgt9j84LHalQ2I/ts
+#EXTINF:-1 xui-id="326715" tvg-id="tnt.br" tvg-name="BR| TNT HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-br.png" group-title="Brazil",BR| TNT HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yepoa656Lrn3beFFhAQL6To/ts
+#EXTINF:-1 xui-id="326714" tvg-id="tntseries.br" tvg-name="BR| TNT SERIES HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tnt-series-br.png" group-title="Brazil",BR| TNT SERIES HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfr0SOpBmKLOij809sgFIuk/ts
+#EXTINF:-1 xui-id="326713" tvg-id="tooncast.br" tvg-name="BR| TOONCAST" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tooncast-br.png" group-title="Brazil",BR| TOONCAST
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ySU4CifvN_VXWAoXM-7LPWo/ts
+#EXTINF:-1 xui-id="326712" tvg-id="" tvg-name="BR| TRACE BRAZUCA" tvg-logo="https://s9.gifyu.com/images/SFc1X.png" group-title="Brazil",BR| TRACE BRAZUCA
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yX97vYMtjp-7fWy3bIVrSY8/ts
+#EXTINF:-1 xui-id="326711" tvg-id="" tvg-name="BR| TRAVEL BOX BRASIL HD" tvg-logo="https://s9.gifyu.com/images/SFc87.webp" group-title="Brazil",BR| TRAVEL BOX BRASIL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycHPJ22utP86oLpj5ENLkO0/ts
+#EXTINF:-1 xui-id="326710" tvg-id="" tvg-name="BR| TRU TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/tru-tv-ar.png" group-title="Brazil",BR| TRU TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yR5qin3xIK2L007A8agAg5U/ts
+#EXTINF:-1 xui-id="326709" tvg-id="" tvg-name="BR| TV5 MONDE" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/france/tv5-monde-fr.png" group-title="Brazil",BR| TV5 MONDE
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yc9Z9caHcFHKUJDGoNyb4K4/ts
+#EXTINF:-1 xui-id="326708" tvg-id="" tvg-name="BR| TV APARECIDA FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-aparecida-br.png" group-title="Brazil",BR| TV APARECIDA FHD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydEeBd_UN0j8cvtcXIy9LXY/ts
+#EXTINF:-1 xui-id="326707" tvg-id="" tvg-name="BR| TV BRASIL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-brasil-br.png" group-title="Brazil",BR| TV BRASIL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yewyOmBOSgjbdppKkgUWFjI/ts
+#EXTINF:-1 xui-id="326706" tvg-id="telecineaction.br" tvg-name="BR| TVCINE ACTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-action-pt.png" group-title="Brazil",BR| TVCINE ACTION
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfWBZ7naPmF4oQu--0JNQXM/ts
+#EXTINF:-1 xui-id="326705" tvg-id="" tvg-name="BR| TVCINE EDITION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-edition-pt.png" group-title="Brazil",BR| TVCINE EDITION
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydzezqKFfxR9wJgGhb82csA/ts
+#EXTINF:-1 xui-id="326704" tvg-id="" tvg-name="BR| TVCINE EMOTION" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-emotion-pt.png" group-title="Brazil",BR| TVCINE EMOTION
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yTisck9SzRVNwpL1no_6qYU/ts
+#EXTINF:-1 xui-id="326703" tvg-id="" tvg-name="BR| TVCINE TOP" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/portugal/tvcine-top-pt.png" group-title="Brazil",BR| TVCINE TOP
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yQDPGq6SKfUVYv0KtXWSip8/ts
+#EXTINF:-1 xui-id="326702" tvg-id="" tvg-name="BR| TVE INTERNATIONAL" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/international/tve-internacional-int.png" group-title="Brazil",BR| TVE INTERNATIONAL
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yalJJYIK6PYPxWTvMLtZXvk/ts
+#EXTINF:-1 xui-id="326701" tvg-id="tvgazeta.br" tvg-name="BR| TV GAZETA HD" tvg-logo="https://s9.gifyu.com/images/SFc8I.png" group-title="Brazil",BR| TV GAZETA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZ7dFOkdu8-56YRUXGag-dc/ts
+#EXTINF:-1 xui-id="326700" tvg-id="" tvg-name="BR| TV RA TIM BUM HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/tv-ra-tim-bum-br.png" group-title="Brazil",BR| TV RA TIM BUM HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yc3uy9-bJPQKCeuUrxsr8vU/ts
+#EXTINF:-1 xui-id="326699" tvg-id="universal.br" tvg-name="BR| UNIVERSAL TV" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/universal-tv-br.png" group-title="Brazil",BR| UNIVERSAL TV
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yfg3T5HITIUN-7Tw2VbnUz8/ts
+#EXTINF:-1 xui-id="326698" tvg-id="viva.br" tvg-name="BR| VIVA HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/viva-br.png" group-title="Brazil",BR| VIVA HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ycKpovlR0MF2klOYHRqF0dw/ts
+#EXTINF:-1 xui-id="326697" tvg-id="warnerchannel.br" tvg-name="BR| WARNER CHANNEL HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/argentina/warner-channel-ar.png" group-title="Brazil",BR| WARNER CHANNEL HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4ydsuL6NZIHgEf9n13FsLXCA/ts
+#EXTINF:-1 xui-id="326696" tvg-id="woohoo.br" tvg-name="BR| WOOHOO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/brazil/woohoo-br.png" group-title="Brazil",BR| WOOHOO HD
+http://lordstreams.live:80/play/GniXJ64wdumSqLhEj2n4yZ04LSmz7sk4gr8B4ICSM6o/ts
+#EXTINF:-1 xui-id="326695" tvg-id="zoomoo.br" tvg-name="BR| ZOOMOO HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-l
