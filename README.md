@@ -55,11 +55,11 @@ Lista: 02
 
 Qualquer nome: Url2
 
-Login2: 70376812
+Login2: Onder5442
 
-Senha2: 52663544
+Senha2: zqwrK9gjzq
 
-Url2: http://lordstreams.live:80
+Url2: http://relaxsrv.xyz:8080
 #
 Lista: 03
 
