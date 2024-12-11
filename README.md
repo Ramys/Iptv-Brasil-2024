@@ -44,11 +44,11 @@ Lista: 01
 
 Qualquer nome: Url1
 
-Login: j.p.lowry714@gmail.com
+Login: spainreve
 
-Senha:  BZJFU5cunM
+Senha:  JN53AwcaHcyQold
 
-Url:  http://ua-iptv.com:8080
+Url:  http://feextesca.fyi:2082
 #
 ###
 Lista: 02
