@@ -10,10 +10,6 @@
 ### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
 #
 
-### CANAIS AO VIVO PARA TODOS <a href="https://www.tvlivre.site" download="filename">TvLivre</a>
-# https://www.tvlivre.site
- 
-# 
 # Contribuições
 ### Se você gosta dos meus projetos, considere fazer uma pequena doação.
 
