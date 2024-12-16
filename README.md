@@ -39,9 +39,9 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 
 ## Contas Iptv
-| Urls   | Logins                 | Senha                                 |      Urls                              |
-|--------|------------------------|---------------------------------------|----------------------------------------|
-| Url:1  | `poolque75@gmail.com`  |  XibxZji5g7                           |  http://23.227.140.75:3050             |
-| Url:2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
-| Ur:3   | `reginaldooliver1`     | oliverreginaldo                       |  https://vptdlxun.online               |
+| Qualquer nome   | Login                  | Senha                                 |      Url                               |
+|-----------------|------------------------|---------------------------------------|----------------------------------------|
+| Iptv1  | `poolque75@gmail.com`  |  XibxZji5g7                           |  http://23.227.140.75:3050             |
+| Iptv2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
+| Iptv3  | `reginaldooliver1`     | oliverreginaldo                       |  https://vptdlxun.online               |
 
