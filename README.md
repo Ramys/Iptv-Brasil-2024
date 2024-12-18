@@ -10,10 +10,6 @@
 ### <a href="https://www.virustotal.com" download="filename">Conferir a confiabilidade dos aplicativos no VirusTotal</a> 
 #
 
-### CANAIS AO VIVO PARA TODOS <a href="https://www.tvlivre.site" download="filename">TvLivre</a>
-# https://www.tvlivre.site
- 
-# 
 # Contribuições
 ### Se você gosta dos meus projetos, considere fazer uma pequena doação.
 
@@ -40,36 +36,12 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 
 ###
 #
-Lista: 01
 
-Qualquer nome: Url1
 
-Login: poolque75@gmail.com
-
-Senha: XibxZji5g7
-
-Url:  http://23.227.140.75:3050
-#
-###
-Lista: 02
-
-Qualquer nome: Url2
-
-Login2: 329474
-
-Senha2: 903964
-
-Url2: http://supersonictv.live:8080
-#
-Lista: 03
-
-Qualquer nome: Url3
-
-Login3: reginaldooliver1
-
-Senha3: oliverreginaldo
-
-Url3: https://vptdlxun.online
-
-#
+## Contas Iptv
+| Qualquer nome   | Login                  | Senha                                 |      Url                               |
+|-----------------|------------------------|---------------------------------------|----------------------------------------|
+| Iptv1  | `poolque75@gmail.com`  |  XibxZji5g7                           |  http://23.227.140.75:3050             |
+| Iptv2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
+| Iptv3  | `reginaldooliver1`     | oliverreginaldo                       |  https://vptdlxun.online               |
 
