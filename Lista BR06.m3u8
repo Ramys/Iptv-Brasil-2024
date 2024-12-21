@@ -1,183 +1,233 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="BR: A&E HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: A&E HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312007
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: RECORD HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312008
-#EXTINF:-1 tvg-id="" tvg-name="BR: RECORD NEWS" tvg-logo="http://fanc.tmsimg.com/assets/s38709_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: RECORD NEWS
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312009
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO HD" tvg-logo="http://fanc.tmsimg.com/assets/s42206_ll_h3_ca.png" group-title="LATINO  ☆ SAT",BR: GLOBO HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312010
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO MINAS FHD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: GLOBO MINAS FHD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312011
-#EXTINF:-1 tvg-id="" tvg-name="BR: GLOBO NEWS HD" tvg-logo="http://fanc.tmsimg.com/assets/s38310_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: GLOBO NEWS HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312012
-#EXTINF:-1 tvg-id="" tvg-name="BR: COMBATE HD" tvg-logo="http://fanc.tmsimg.com/assets/s85800_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: COMBATE HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312013
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s95288_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312014
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN HD" tvg-logo="http://fanc.tmsimg.com/assets/s16388_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: ESPN HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312015
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s100563_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: ESPN 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312016
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN + HD" tvg-logo="http://fanc.tmsimg.com/assets/s16388_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: ESPN + HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312017
-#EXTINF:-1 tvg-id="" tvg-name="BR: TELECINE PREMIUN HD" tvg-logo="http://fanc.tmsimg.com/assets/s40235_ll_h3_ac.png" group-title="LATINO  ☆ SAT",BR: TELECINE PREMIUN HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312018
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO SIGNATURE HD" tvg-logo="http://fanc.tmsimg.com/assets/s74530_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: HBO SIGNATURE HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312019
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO HD" tvg-logo="http://fanc.tmsimg.com/assets/s15361_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: HBO HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312020
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO FAMILY HD" tvg-logo="http://fanc.tmsimg.com/assets/s56092_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: HBO FAMILY HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312021
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO 2 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: HBO 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312022
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPACE HD" tvg-logo="http://fanc.tmsimg.com/assets/s75597_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: SPACE HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312023
-#EXTINF:-1 tvg-id="" tvg-name="BR: SONY HD" tvg-logo="http://fanc.tmsimg.com/assets/s19385_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: SONY HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312024
-#EXTINF:-1 tvg-id="" tvg-name="BR: PARAMOUNT HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: PARAMOUNT HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312025
-#EXTINF:-1 tvg-id="" tvg-name="BR: SYFY HD" tvg-logo="http://fanc.tmsimg.com/assets/s75599_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: SYFY HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312026
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT HD" tvg-logo="http://fanc.tmsimg.com/assets/s71727_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: TNT HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312027
-#EXTINF:-1 tvg-id="" tvg-name="BR: TNT SERIES HD" tvg-logo="http://fanc.tmsimg.com/assets/s91993_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: TNT SERIES HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312028
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX HD" tvg-logo="http://fanc.tmsimg.com/assets/s100362_h3_aa.png" group-title="LATINO  ☆ SAT",BR: FOX HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312029
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO XTREME HD" tvg-logo="http://fanc.tmsimg.com/assets/s54590_ll_h3_ac.png" group-title="LATINO  ☆ SAT",BR: HBO XTREME HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312030
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY KIDS HD" tvg-logo="http://fanc.tmsimg.com/assets/s18650_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: DISCOVERY KIDS HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312031
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY H&H" tvg-logo="" group-title="LATINO  ☆ SAT",BR: DISCOVERY H&H
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312032
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s15799_ll_h3_ac.png" group-title="LATINO  ☆ SAT",BR: DISCOVERY CHANNEL HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312033
-#EXTINF:-1 tvg-id="" tvg-name="BR: MULTISHOW HD" tvg-logo="http://fanc.tmsimg.com/assets/s15680_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: MULTISHOW HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312034
-#EXTINF:-1 tvg-id="" tvg-name="BR: NATIONAL GEOGRAFHY HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: NATIONAL GEOGRAFHY HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312035
-#EXTINF:-1 tvg-id="" tvg-name="BR: HYSTORY HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: HYSTORY HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312036
-#EXTINF:-1 tvg-id="" tvg-name="BR: VIVA HD" tvg-logo="http://fanc.tmsimg.com/assets/s76116_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: VIVA HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312037
-#EXTINF:-1 tvg-id="" tvg-name="BR: BOOMERAN HD" tvg-logo="http://fanc.tmsimg.com/assets/s54594_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: BOOMERAN HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312038
-#EXTINF:-1 tvg-id="" tvg-name="BR: BABY TV" tvg-logo="http://fanc.tmsimg.com/assets/s97985_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: BABY TV
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312039
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISNEY CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s54592_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: DISNEY CHANNEL HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312040
-#EXTINF:-1 tvg-id="" tvg-name="BR: TOONCAST HD" tvg-logo="http://fanc.tmsimg.com/assets/s83240_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: TOONCAST HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312041
-#EXTINF:-1 tvg-id="" tvg-name="BR: NICK JR HD" tvg-logo="http://fanc.tmsimg.com/assets/s78242_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: NICK JR HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312042
-#EXTINF:-1 tvg-id="" tvg-name="BR: NATGEO KIDS HD" tvg-logo="http://fanc.tmsimg.com/assets/s104524_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: NATGEO KIDS HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312043
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 1 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: SPORTV 1 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312044
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s56104_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: SPORTV 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312045
-#EXTINF:-1 tvg-id="" tvg-name="BR: SPORTV 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s76967_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: SPORTV 3 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312046
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s54139_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 1 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312047
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 1 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 1 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312048
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 2 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312049
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 3 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 3 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312050
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 5 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 5 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312051
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 6 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 6 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312052
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 7 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 7 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312053
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 8 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 8 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312054
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 10 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 10 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312055
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 3 HD" tvg-logo="http://fanc.tmsimg.com/assets/s95290_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 3 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312056
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 1 HD" tvg-logo="http://fanc.tmsimg.com/assets/s105106_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: FOX SPORTS 1 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312057
-#EXTINF:-1 tvg-id="" tvg-name="BR: ANIMAL PLANET HD" tvg-logo="http://fanc.tmsimg.com/assets/s18651_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: ANIMAL PLANET HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312058
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY WORLD HD" tvg-logo="http://fanc.tmsimg.com/assets/s75605_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: DISCOVERY WORLD HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312059
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY TURBO HD" tvg-logo="http://fanc.tmsimg.com/assets/s56076_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: DISCOVERY TURBO HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312060
-#EXTINF:-1 tvg-id="" tvg-name="BR: DISCOVERY THEATHER HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: DISCOVERY THEATHER HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312061
-#EXTINF:-1 tvg-id="" tvg-name="BR: H2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s95297_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: H2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312062
-#EXTINF:-1 tvg-id="" tvg-name="BR: HISTORY HD" tvg-logo="http://fanc.tmsimg.com/assets/s54634_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: HISTORY HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312063
-#EXTINF:-1 tvg-id="" tvg-name="BR: HGTV HD" tvg-logo="http://fanc.tmsimg.com/assets/s111476_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: HGTV HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312064
-#EXTINF:-1 tvg-id="" tvg-name="BR: BANDS SPORTS HD" tvg-logo="http://fanc.tmsimg.com/assets/s54680_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: BANDS SPORTS HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312065
-#EXTINF:-1 tvg-id="" tvg-name="BR: AMC HD" tvg-logo="http://fanc.tmsimg.com/assets/s92009_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: AMC HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312066
-#EXTINF:-1 tvg-id="" tvg-name="BR: AXN HD" tvg-logo="http://fanc.tmsimg.com/assets/s16439_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: AXN HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312067
-#EXTINF:-1 tvg-id="" tvg-name="BR: WARNER CHANNEL HD" tvg-logo="http://fanc.tmsimg.com/assets/s16214_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: WARNER CHANNEL HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312068
-#EXTINF:-1 tvg-id="" tvg-name="BR: LIFETIME HD" tvg-logo="http://fanc.tmsimg.com/assets/s89197_h3_aa.png" group-title="LATINO  ☆ SAT",BR: LIFETIME HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312069
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO PLUS HD" tvg-logo="http://fanc.tmsimg.com/assets/s99677_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: HBO PLUS HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312070
-#EXTINF:-1 tvg-id="" tvg-name="BR: HBO POP HD" tvg-logo="http://fanc.tmsimg.com/assets/s75590_ll_h3_ad.png" group-title="LATINO  ☆ SAT",BR: HBO POP HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312071
-#EXTINF:-1 tvg-id="" tvg-name="BR: FX HD" tvg-logo="http://fanc.tmsimg.com/assets/s54591_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: FX HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312072
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINEMAX HD" tvg-logo="http://fanc.tmsimg.com/assets/s104743_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: CINEMAX HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312073
-#EXTINF:-1 tvg-id="" tvg-name="BR: FOX SPORTS 2 HD" tvg-logo="http://fanc.tmsimg.com/assets/s33178_ll_h3_ab.png" group-title="LATINO  ☆ SAT",BR: FOX SPORTS 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312074
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESPN BRAZIL HD" tvg-logo="http://fanc.tmsimg.com/assets/s75838_ll_h3_aa.png" group-title="LATINO  ☆ SAT",BR: ESPN BRAZIL HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312075
-#EXTINF:-1 tvg-id="" tvg-name="BR: ESTÁDIO TNT SPORTS 1 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: ESTÁDIO TNT SPORTS 1 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312076
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 1 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 1 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312077
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 2 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 2 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312078
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 3 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 3 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312079
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 4 HD" tvg-logo="http://xplatinmedia.com:8080/images/9ca11c3507f416df9454fa024bbd1395.png" group-title="LATINO  ☆ SAT",BR: CINE SKY 4 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312080
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 5 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 5 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312081
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 6 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 6 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312082
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 7 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 7 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312083
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 8 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 8 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312084
-#EXTINF:-1 tvg-id="" tvg-name="BR: CINE SKY 9 HD" tvg-logo="" group-title="LATINO  ☆ SAT",BR: CINE SKY 9 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312085
-#EXTINF:-1 tvg-id="" tvg-name="BR: COPA NORDESTE 1 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="LATINO  ☆ SAT",BR: COPA NORDESTE 1 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312086
-#EXTINF:-1 tvg-id="" tvg-name="BR: COPA NORDESTE 2 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="LATINO  ☆ SAT",BR: COPA NORDESTE 2 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312087
-#EXTINF:-1 tvg-id="" tvg-name="BR: COPA NORDESTE 3 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/ccb291738daad7d3950d0a9a9317c368.png" group-title="LATINO  ☆ SAT",BR: COPA NORDESTE 3 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312088
-#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 1 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/0115e0905eb6b032fc967949252e94d8.png" group-title="LATINO  ☆ SAT",BR: DAZN 1 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312089
-#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 2 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/debdd9fac1edc371aeef07032528ff08.png" group-title="LATINO  ☆ SAT",BR: DAZN 2 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312090
-#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 3 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/3bf7679ff6c87f2a63a43f3df3eea761.png" group-title="LATINO  ☆ SAT",BR: DAZN 3 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312091
-#EXTINF:-1 tvg-id="" tvg-name="BR: DAZN 4 HD (Event Only)" tvg-logo="http://xplatinmedia.com:8080/images/f51eeae773cbd21aadf3943cdda83da3.png" group-title="LATINO  ☆ SAT",BR: DAZN 4 HD (Event Only)
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312092
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 4 HD" tvg-logo="http://mirror.streamhubtv.ca:80/images/CSU8cZzVTxjnSna03jIbAzQBr45FoxJH7z53DxW_jBWOjwAe1KJ95Bw67HimvO73.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 4 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312093
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 5 HD" tvg-logo="http://mirror.streamhubtv.ca:80/images/CSU8cZzVTxjnSna03jIbAzQBr45FoxJH7z53DxW_jBWOjwAe1KJ95Bw67HimvO73.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 5 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312094
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 6 HD" tvg-logo="http://mirror.streamhubtv.ca:80/images/CSU8cZzVTxjnSna03jIbAzQBr45FoxJH7z53DxW_jBWOjwAe1KJ95Bw67HimvO73.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 6 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312095
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE 7 HD" tvg-logo="http://mirror.streamhubtv.ca:80/images/CSU8cZzVTxjnSna03jIbAzQBr45FoxJH7z53DxW_jBWOjwAe1KJ95Bw67HimvO73.png" group-title="LATINO  ☆ SAT",BR: PREMIERE 7 HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312096
-#EXTINF:-1 tvg-id="" tvg-name="BR: PREMIERE CLUBES HD" tvg-logo="http://mirror.streamhubtv.ca:80/images/YE9BI7F15D3_iLaDPPtGfu-WDVf4dI_h2gVZHZURzKqyfAcJWiECBfCQksyVSrZ8QEHJeWGIti3P7L-FbmBy0g.png" group-title="LATINO  ☆ SAT",BR: PREMIERE CLUBES HD
-http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/312097
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rio" tvg-logo="" group-title=" LATINO ☆ VIP",BR: Globo Rio
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346438
+#EXTINF:-1 tvg-id="" tvg-name="BR: Top TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35817394071.png" group-title=" LATINO ☆ VIP",BR: Top TV HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346439
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sport TV 3" tvg-logo="https://img-cdn.curl.pk/channels_icon/21014839301.png" group-title=" LATINO ☆ VIP",BR: Sport TV 3
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346440
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 1" tvg-logo="https://img-cdn.curl.pk/channels_icon/79941526291.png" group-title=" LATINO ☆ VIP",BR: Fox Sports 1
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346441
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn Brasil HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95537313091.png" group-title=" LATINO ☆ VIP",BR: Espn Brasil HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346442
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tnt Series FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71446616951.png" group-title=" LATINO ☆ VIP",BR: Tnt Series FHD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346443
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tnt HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62429098861.png" group-title=" LATINO ☆ VIP",BR: Tnt HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346444
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31291444621.png" group-title=" LATINO ☆ VIP",BR: SporTV 3 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346445
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/31058921921.png" group-title=" LATINO ☆ VIP",BR: SporTV 1 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346446
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2 FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/91301065891.png" group-title=" LATINO ☆ VIP",BR: SporTV 2 FHD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346447
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tnt Séries HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19272543471.png" group-title=" LATINO ☆ VIP",BR: Tnt Séries HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346448
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band News HD" tvg-logo="https://img-cdn.curl.pk/chimg/2530055673.jpg" group-title=" LATINO ☆ VIP",BR: Band News HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346449
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/53074266441.png" group-title=" LATINO ☆ VIP",BR: Espn 2 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346450
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Kids HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51527452641.png" group-title=" LATINO ☆ VIP",BR: Discovery Kids HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346451
+#EXTINF:-1 tvg-id="" tvg-name="BR: Espn Extra HD" tvg-logo="https://curl.pk/img/u/373e1d2ce4bd0c5cabf9f7e5b27303eb9060.jpg" group-title=" LATINO ☆ VIP",BR: Espn Extra HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346452
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Sports 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37444895591.png" group-title=" LATINO ☆ VIP",BR: Fox Sports 2 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346453
+#EXTINF:-1 tvg-id="" tvg-name="BR: SporTV 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/13955294101.png" group-title=" LATINO ☆ VIP",BR: SporTV 2 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346454
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/25497972891.png" group-title=" LATINO ☆ VIP",BR: Premiere 2 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346455
+#EXTINF:-1 tvg-id="" tvg-name="BR: Animal Planet HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80551114131.png" group-title=" LATINO ☆ VIP",BR: Animal Planet HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346456
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sp HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/93090885481.png" group-title=" LATINO ☆ VIP",BR: Band Sp HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346457
+#EXTINF:-1 tvg-id="" tvg-name="BR: All Sports" tvg-logo="https://img-cdn.curl.pk/channels_icon/89486703411.png" group-title=" LATINO ☆ VIP",BR: All Sports
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346458
+#EXTINF:-1 tvg-id="" tvg-name="BR: Axn HD" tvg-logo="https://img-cdn.curl.pk/chimg/6426483356.jpg" group-title=" LATINO ☆ VIP",BR: Axn HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346459
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rj HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/85970836681.png" group-title=" LATINO ☆ VIP",BR: Globo Rj HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346460
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hbo 2 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67403825551.png" group-title=" LATINO ☆ VIP",BR: Hbo 2 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346461
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71367104351.png" group-title=" LATINO ☆ VIP",BR: Globo Sp HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346462
+#EXTINF:-1 tvg-id="" tvg-name="BR: Sbt TV Cidade Verde Piaui SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19280859151.png" group-title=" LATINO ☆ VIP",BR: Sbt TV Cidade Verde Piaui SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346463
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hbo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68306915011.png" group-title=" LATINO ☆ VIP",BR: Hbo HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346464
+#EXTINF:-1 tvg-id="" tvg-name="CAnal Sony" tvg-logo="https://img-cdn.curl.pk/channels_icon/17729052711.png" group-title=" LATINO ☆ VIP",CAnal Sony
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346465
+#EXTINF:-1 tvg-id="" tvg-name="BR: Canal Brasil SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/80165564791.png" group-title=" LATINO ☆ VIP",BR: Canal Brasil SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346466
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Sp HD" tvg-logo="https://curl.pk/img/u/24f541d79f13ac460c08f227479bb68c4755.png" group-title=" LATINO ☆ VIP",BR: Record Sp HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346467
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Sports HD" tvg-logo="https://curl.pk/img/u/b80ee2b1683a1b1f86400ad681e37e879664.png" group-title=" LATINO ☆ VIP",BR: Band Sports HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346468
+#EXTINF:-1 tvg-id="" tvg-name="BR: Space HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/72057577221.png" group-title=" LATINO ☆ VIP",BR: Space HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346469
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Tlc HD" tvg-logo="https://curl.pk/img/u/0bca0413c4007cb4d7a9d83efff92e341600.png" group-title=" LATINO ☆ VIP",BR: Discovery Tlc HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346470
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Brasilia SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/77952557011.png" group-title=" LATINO ☆ VIP",BR: Globo Brasilia SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346471
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EpTV Sao Carlos SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/82301917351.png" group-title=" LATINO ☆ VIP",BR: Globo EpTV Sao Carlos SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346472
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hbo Plus HD" tvg-logo="https://curl.pk/img/u/55e93e843d0771fe10d93f8f4002f9ef2473.png" group-title=" LATINO ☆ VIP",BR: Hbo Plus HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346473
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Premium 2 HD" tvg-logo="https://img-cdn.curl.pk/chimg/1593279190.jpg" group-title=" LATINO ☆ VIP",BR: Fox Premium 2 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346474
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hbo Family HD" tvg-logo="https://curl.pk/img/u/9d9594a517c705c8ce4ff0c1a9ce70505644.png" group-title=" LATINO ☆ VIP",BR: Hbo Family HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346475
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Science HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/46746082951.png" group-title=" LATINO ☆ VIP",BR: Discovery Science HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346476
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Action HD" tvg-logo="https://img-cdn.curl.pk/chimg/5240511493.jpg" group-title=" LATINO ☆ VIP",BR: Telecine Action HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346477
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Pipoca HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81770098591.png" group-title=" LATINO ☆ VIP",BR: Telecine Pipoca HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346478
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fx HD" tvg-logo="https://img-cdn.curl.pk/chimg/8956473683.jpg" group-title=" LATINO ☆ VIP",BR: Fx HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346479
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Premium" tvg-logo="https://img-cdn.curl.pk/chimg/3362376655.png" group-title=" LATINO ☆ VIP",BR: Globo Premium
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346480
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste HD" tvg-logo="https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg" group-title=" LATINO ☆ VIP",BR: Globo Nordeste HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346481
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rpc TV SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69112080011.png" group-title=" LATINO ☆ VIP",BR: Globo Rpc TV SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346482
+#EXTINF:-1 tvg-id="" tvg-name="BR: National Geographic Kids HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/27349326071.png" group-title=" LATINO ☆ VIP",BR: National Geographic Kids HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346483
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo EpTV Campinas HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/64309016481.png" group-title=" LATINO ☆ VIP",BR: Globo EpTV Campinas HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346484
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fox Life HD" tvg-logo="https://img-cdn.curl.pk/chimg/8791116259.jpg" group-title=" LATINO ☆ VIP",BR: Fox Life HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346485
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Minas HD" tvg-logo="https://curl.pk/img/u/8402ba945101c01386b747de7303c80e8028.png" group-title=" LATINO ☆ VIP",BR: Globo Minas HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346486
+#EXTINF:-1 tvg-id="" tvg-name="BR: Boomerang HD" tvg-logo="https://img-cdn.curl.pk/chimg/4126212192.jpg" group-title=" LATINO ☆ VIP",BR: Boomerang HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346487
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rbs TV Pelotas HD" tvg-logo="https://curl.pk/img/u/b065d654ab5e9b39203963f6fc55f7fb6243.jpg" group-title=" LATINO ☆ VIP",BR: Globo Rbs TV Pelotas HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346488
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/76714813471.png" group-title=" LATINO ☆ VIP",BR: MTV HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346489
+#EXTINF:-1 tvg-id="" tvg-name="BR: Hbo Pop HD" tvg-logo="https://curl.pk/img/u/12aa46e0da16b0520c4ac626969bd23e7090.png" group-title=" LATINO ☆ VIP",BR: Hbo Pop HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346490
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/84297661441.png" group-title=" LATINO ☆ VIP",BR: Telecine Fun HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346491
+#EXTINF:-1 tvg-id="" tvg-name="BR: MTV Live HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22147592901.png" group-title=" LATINO ☆ VIP",BR: MTV Live HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346492
+#EXTINF:-1 tvg-id="" tvg-name="BR: Combate HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/45604925601.png" group-title=" LATINO ☆ VIP",BR: Combate HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346493
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Junior HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32574651421.png" group-title=" LATINO ☆ VIP",BR: Disney Junior HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346494
+#EXTINF:-1 tvg-id="" tvg-name="BR: Gnt HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/17104569191.png" group-title=" LATINO ☆ VIP",BR: Gnt HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346495
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere Clubes HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44389777481.png" group-title=" LATINO ☆ VIP",BR: Premiere Clubes HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346496
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/22035256581.png" group-title=" LATINO ☆ VIP",BR: Rede TV HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346497
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nick Jr HD" tvg-logo="https://img-cdn.curl.pk/chimg/7064545639.jpg" group-title=" LATINO ☆ VIP",BR: Nick Jr HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346498
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Morena HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/69894889491.png" group-title=" LATINO ☆ VIP",BR: Globo TV Morena HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346499
+#EXTINF:-1 tvg-id="" tvg-name="BR: History Channel HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20435737671.png" group-title=" LATINO ☆ VIP",BR: History Channel HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346500
+#EXTINF:-1 tvg-id="" tvg-name="BR: Futura HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66347294161.png" group-title=" LATINO ☆ VIP",BR: Futura HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346501
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Bahia SD" tvg-logo="https://curl.pk/img/u/00e99b13b409d8c31037ce4bcb7755326291.jpeg" group-title=" LATINO ☆ VIP",BR: Globo TV Bahia SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346502
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Nordeste HD" tvg-logo="https://curl.pk/img/u/6162a45e059f9837536274d4fc9db90f2063.jpg" group-title=" LATINO ☆ VIP",BR: Record Nordeste HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346503
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Rj HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/79973044021.png" group-title=" LATINO ☆ VIP",BR: Record Rj HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346504
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery Home & Health HD" tvg-logo="https://curl.pk/img/u/4401546efb1795a043faae9163a6c2033820.png" group-title=" LATINO ☆ VIP",BR: Discovery Home & Health HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346505
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World FHD" tvg-logo="https://curl.pk/img/u/5b81cd54525354811bc5b82652be46352917.jpg" group-title=" LATINO ☆ VIP",BR: Discovery World FHD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346506
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Sp HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/71367104351.png" group-title=" LATINO ☆ VIP",BR: Record Sp HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346507
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rpc Curitiba HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18721689851.png" group-title=" LATINO ☆ VIP",BR: Globo Rpc Curitiba HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346508
+#EXTINF:-1 tvg-id="" tvg-name="BR: HgTV HD" tvg-logo="https://img-cdn.curl.pk/chimg/1719996587.jpg" group-title=" LATINO ☆ VIP",BR: HgTV HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346509
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37537505951.png" group-title=" LATINO ☆ VIP",BR: Premiere 1 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346510
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Touch HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/11074488021.png" group-title=" LATINO ☆ VIP",BR: Telecine Touch HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346511
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Inter TV Cabugi Rn SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/56707378081.png" group-title=" LATINO ☆ VIP",BR: Globo Inter TV Cabugi Rn SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346512
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Vida HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66622767311.png" group-title=" LATINO ☆ VIP",BR: Rede Vida HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346513
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tribuna Santos SD" tvg-logo="https://curl.pk/img/u/d9ff25bf513d9d89e2cdca4a0c09c5056859.png" group-title=" LATINO ☆ VIP",BR: Globo TV Tribuna Santos SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346514
+#EXTINF:-1 tvg-id="" tvg-name="BR: Nat Geo Wild" tvg-logo="https://img-cdn.curl.pk/channels_icon/47393207441.png" group-title=" LATINO ☆ VIP",BR: Nat Geo Wild
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346515
+#EXTINF:-1 tvg-id="" tvg-name="BR: Viva HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/74990062061.png" group-title=" LATINO ☆ VIP",BR: Viva HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346516
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Gospel SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/81734779521.png" group-title=" LATINO ☆ VIP",BR: Rede Gospel SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346517
+#EXTINF:-1 tvg-id="" tvg-name="BR: Woohoo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/75462793431.png" group-title=" LATINO ☆ VIP",BR: Woohoo HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346518
+#EXTINF:-1 tvg-id="" tvg-name="BR: Zoomoo HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/20886865341.png" group-title=" LATINO ☆ VIP",BR: Zoomoo HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346519
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo News HD" tvg-logo="https://curl.pk/img/u/987d863a3fd8be047e7db119e242e9031173.jpg" group-title=" LATINO ☆ VIP",BR: Globo News HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346520
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tcm SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/19827211411.png" group-title=" LATINO ☆ VIP",BR: Tcm SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346521
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Gazeta SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32180066831.png" group-title=" LATINO ☆ VIP",BR: TV Gazeta SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346522
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Cult HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/88137564111.png" group-title=" LATINO ☆ VIP",BR: Telecine Cult HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346523
+#EXTINF:-1 tvg-id="" tvg-name="BR: Fish TV HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/62204407471.png" group-title=" LATINO ☆ VIP",BR: Fish TV HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346524
+#EXTINF:-1 tvg-id="" tvg-name="UNiversal Channel SD" tvg-logo="https://img-cdn.curl.pk/chimg/7272328326.jpg" group-title=" LATINO ☆ VIP",UNiversal Channel SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346525
+#EXTINF:-1 tvg-id="" tvg-name="BR: Vh1 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/37309598051.png" group-title=" LATINO ☆ VIP",BR: Vh1 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346526
+#EXTINF:-1 tvg-id="" tvg-name="BR: Tooncast HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/66038653281.png" group-title=" LATINO ☆ VIP",BR: Tooncast HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346527
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Tem Sorocaba SD" tvg-logo="https://curl.pk/img/u/7ea8ab1aea7b30476a22bb107db50df01771.png" group-title=" LATINO ☆ VIP",BR: Globo TV Tem Sorocaba SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346528
+#EXTINF:-1 tvg-id="" tvg-name="BR: Music Box Brazil SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/51657133271.png" group-title=" LATINO ☆ VIP",BR: Music Box Brazil SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346529
+#EXTINF:-1 tvg-id="" tvg-name="BR :record Rj" tvg-logo="https://curl.pk/img/u/a3bec7f056052022452c5aa6242693951817.jpeg" group-title=" LATINO ☆ VIP",BR :record Rj
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346530
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Brasil" tvg-logo="https://img-cdn.curl.pk/channels_icon/97421073901.png" group-title=" LATINO ☆ VIP",BR: Rede Brasil
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346531
+#EXTINF:-1 tvg-id="" tvg-name="BR: Paramount Channel HD" tvg-logo="https://curl.pk/img/u/1b3454b39d4bd997c17cc2200547fead726.png" group-title=" LATINO ☆ VIP",BR: Paramount Channel HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346532
+#EXTINF:-1 tvg-id="" tvg-name="BR: Food Network HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/18812204581.png" group-title=" LATINO ☆ VIP",BR: Food Network HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346533
+#EXTINF:-1 tvg-id="" tvg-name="BR: Discovery World SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/65430865521.png" group-title=" LATINO ☆ VIP",BR: Discovery World SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346534
+#EXTINF:-1 tvg-id="" tvg-name="BR: Record Campinas" tvg-logo="https://img-cdn.curl.pk/channels_icon/74723712411.png" group-title=" LATINO ☆ VIP",BR: Record Campinas
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346535
+#EXTINF:-1 tvg-id="" tvg-name="BR: TV Diario Do Sertao" tvg-logo="https://img-cdn.curl.pk/channels_icon/14657433621.png" group-title=" LATINO ☆ VIP",BR: TV Diario Do Sertao
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346536
+#EXTINF:-1 tvg-id="" tvg-name="BR: Mais Globosat SD" tvg-logo="https://img-cdn.curl.pk/chimg/1355657774.png" group-title=" LATINO ☆ VIP",BR: Mais Globosat SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346537
+#EXTINF:-1 tvg-id="" tvg-name="BR: Rede Familia SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/44993746411.png" group-title=" LATINO ☆ VIP",BR: Rede Familia SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346538
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Sp FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/95780884861.png" group-title=" LATINO ☆ VIP",BR: Globo Sp FHD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346539
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rbs Porto Alegre" tvg-logo="https://img-cdn.curl.pk/channels_icon/42862282911.png" group-title=" LATINO ☆ VIP",BR: Globo Rbs Porto Alegre
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346540
+#EXTINF:-1 tvg-id="" tvg-name="BR: Band Campinas HD" tvg-logo="https://img-cdn.curl.pk/chimg/6080735391.png" group-title=" LATINO ☆ VIP",BR: Band Campinas HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346541
+#EXTINF:-1 tvg-id="" tvg-name="BR: Disney Xd HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/55272714191.png" group-title=" LATINO ☆ VIP",BR: Disney Xd HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346542
+#EXTINF:-1 tvg-id="" tvg-name="BR: Telecine Fun SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/15677572671.png" group-title=" LATINO ☆ VIP",BR: Telecine Fun SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346543
+#EXTINF:-1 tvg-id="" tvg-name="BR: Natgeo Wild SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/24258158331.png" group-title=" LATINO ☆ VIP",BR: Natgeo Wild SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346544
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Nordeste" tvg-logo="https://img-cdn.curl.pk/chimg/5077514416.png" group-title=" LATINO ☆ VIP",BR: Globo Nordeste
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346545
+#EXTINF:-1 tvg-id="" tvg-name="BR: National Geographic HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/32155898151.png" group-title=" LATINO ☆ VIP",BR: National Geographic HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346546
+#EXTINF:-1 tvg-id="" tvg-name="BR: Id Discovery HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/35545143541.png" group-title=" LATINO ☆ VIP",BR: Id Discovery HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346547
+#EXTINF:-1 tvg-id="" tvg-name="BR: Vh1 Mega Hits SD" tvg-logo="https://img-cdn.curl.pk/channels_icon/67489953771.png" group-title=" LATINO ☆ VIP",BR: Vh1 Mega Hits SD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346548
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo Rpc HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/73698323011.png" group-title=" LATINO ☆ VIP",BR: Globo Rpc HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346549
+#EXTINF:-1 tvg-id="" tvg-name="BR: Multishow HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/68641119701.png" group-title=" LATINO ☆ VIP",BR: Multishow HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346550
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 3 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/63790375811.png" group-title=" LATINO ☆ VIP",BR: Premiere 3 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346551
+#EXTINF:-1 tvg-id="" tvg-name="BR: Premiere 4 HD" tvg-logo="https://img-cdn.curl.pk/channels_icon/57146425911.png" group-title=" LATINO ☆ VIP",BR: Premiere 4 HD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346552
+#EXTINF:-1 tvg-id="" tvg-name="BR: Globo TV Morena FHD" tvg-logo="https://img-cdn.curl.pk/channels_icon/60224497621.png" group-title=" LATINO ☆ VIP",BR: Globo TV Morena FHD
+http://pro.lsscover.cc:8080/l2QRleJcTZ/NAR6I1FLO/346553
