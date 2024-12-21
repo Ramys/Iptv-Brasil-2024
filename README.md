@@ -1,3 +1,6 @@
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F4ZDRzcWZwd3B6cnBsMjBsMG5yOG82OGd4ODI2ZG9waXkxcW1yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bbr7peq6P5z86NSkJv/giphy.gif" alt="Computer man" style="width:400px;height:200px;">
+
+
 # IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
 "Só tem o direito de criticar aquele que pretende ajudar." - Abraham Lincoln
@@ -44,4 +47,8 @@ Qualquer Lista poderá ser adicionada no painel iptvsmarters e na webtv.
 | Iptv1  | `poolque75@gmail.com`  |  XibxZji5g7                           |  http://23.227.140.75:3050             |
 | Iptv2  | `329474`               | 903964                                |  http://supersonictv.live:8080         |
 | Iptv3  | `reginaldooliver1`     | oliverreginaldo                       |  https://vptdlxun.online               |
+
+<img src="https://media.tenor.com/deSXVqxNJwcAAAAj/christmas-xmas.gif" alt="Computer man" style="width:400px;height:200px;">
+
+
 
