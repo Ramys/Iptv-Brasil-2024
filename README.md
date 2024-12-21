@@ -1,5 +1,5 @@
 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2F4ZDRzcWZwd3B6cnBsMjBsMG5yOG82OGd4ODI2ZG9waXkxcW1yZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Bbr7peq6P5z86NSkJv/giphy.gif" alt="Computer man" style="width:400px;height:200px;">
-
+🎅🎄
 
 # IPTV Brasil 2025 - Canais, Filmes e Séries
 ### <i class="fa-brands fa-pix">
